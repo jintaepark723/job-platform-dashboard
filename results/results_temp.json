@@ -1,0 +1,915 @@
+[
+  {
+    "company": "동일금속\thttp://www.dongilmetal.co.kr",
+    "searchQuery": "동일금속\thttp://www.dongilmetal.co.kr 채용",
+    "timestamp": "2025-12-17T02:43:36.070Z",
+    "resultCount": 10,
+    "mainPlatform": "잡코리아",
+    "platformScore": 28.000000000000004,
+    "platformDetails": [
+      {
+        "name": "잡코리아",
+        "weight": 40,
+        "bestRank": 4,
+        "count": 2,
+        "domains": [
+          "www.jobkorea.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 28.000000000000004
+      },
+      {
+        "name": "사람인",
+        "weight": 35,
+        "bestRank": 5,
+        "count": 2,
+        "domains": [
+          "m.saramin.co.kr",
+          "www.saramin.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 21.000000000000004
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "bestRank": 1,
+        "count": 6,
+        "domains": [
+          "mech.cu.ac.kr",
+          "www.dongilmetal.co.kr",
+          "www.incruit.com",
+          "www.yu.ac.kr",
+          "career.rememberapp.co.kr",
+          "www.jobplanet.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 10
+      }
+    ],
+    "results": [
+      {
+        "url": "http://mech.cu.ac.kr/bbs/board.php?bo_table=sub5_3&wr_id=6",
+        "domain": "mech.cu.ac.kr",
+        "title": "[채용공고] 동일금속 인력채용 > 취업정보 | 대구가톨릭대 기계 ..."
+      },
+      {
+        "url": "http://www.dongilmetal.co.kr/",
+        "domain": "www.dongilmetal.co.kr",
+        "title": "동일금속"
+      },
+      {
+        "url": "https://www.incruit.com/company/20515053/",
+        "domain": "www.incruit.com",
+        "title": "2025년 동일메탈 채용 기업정보"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/company/45969736/Recruit",
+        "domain": "www.jobkorea.co.kr",
+        "title": "동일금속 채용 - 2025년 진행 중인 공고 확인하기"
+      },
+      {
+        "url": "https://m.saramin.co.kr/job-search/company-info-view/recruit?csn=RXgrS010WjZONGRLVWdmZm1qRVF4UT09&t_ref_content=generic",
+        "domain": "m.saramin.co.kr",
+        "title": "동일금속 채용 | 2025년 진행 중인 공고"
+      },
+      {
+        "url": "https://www.yu.ac.kr/japan/employment/employment-information-for-our-major.do?mode=view&articleNo=5994817&title=%28%EC%A3%BC%29+%EB%8F%99%EC%9D%BC%EA%B8%88%EC%86%8D+%EC%9D%B8%EC%9E%AC%EB%AA%A8%EC%A7%91+%EC%95%88%EB%82%B4",
+        "domain": "www.yu.ac.kr",
+        "title": "(주) 동일금속 인재모집 안내 | 영남대학교 일어일문학과"
+      },
+      {
+        "url": "https://career.rememberapp.co.kr/job/company/111540",
+        "domain": "career.rememberapp.co.kr",
+        "title": "동일금속(주) 기업정보 ㅣ 채용공고, 연봉, 직원수 - 리멤버"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/company/1817799/recruit",
+        "domain": "www.jobkorea.co.kr",
+        "title": "동일금속(주) 채용 - 2025년 진행 중인 공고 확인하기"
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/NVdyelpTcUlNRk9DRVM1ZkpzbW9PUT09/company_nm/%EB%8F%99%EC%9D%BC%EA%B8%88%EC%86%8D(%EC%A3%BC)?srsltid=AfmBOorALvR7dyf8t6FjuHj1TVECOTSR6WDXlE6ukai-26Vh2FoAPQNc",
+        "domain": "www.saramin.co.kr",
+        "title": "동일금속(주) 2025년 기업정보 | 직원수, 근무환경, 복리후생 등"
+      },
+      {
+        "url": "https://www.jobplanet.co.kr/companies/37265/job_postings/%EB%8F%99%EC%9D%BC%EA%B8%88%EC%86%8D",
+        "domain": "www.jobplanet.co.kr",
+        "title": "동일금속 2025년 기업정보 | 0건의 채용정보"
+      }
+    ]
+  },
+  {
+    "company": "어보브반도체\thttp://abov.co.kr",
+    "searchQuery": "어보브반도체\thttp://abov.co.kr 채용",
+    "timestamp": "2025-12-17T02:43:53.944Z",
+    "resultCount": 10,
+    "mainPlatform": "잡코리아",
+    "platformScore": 48,
+    "platformDetails": [
+      {
+        "name": "잡코리아",
+        "weight": 60,
+        "bestRank": 3,
+        "count": 2,
+        "domains": [
+          "www.jobkorea.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 48
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "bestRank": 1,
+        "count": 8,
+        "domains": [
+          "www.abov.co.kr",
+          "ee.kaist.ac.kr"
+        ],
+        "isDedicated": false,
+        "score": 10
+      }
+    ],
+    "results": [
+      {
+        "url": "https://www.abov.co.kr/bbs/board.php?tbl=job&language=kr",
+        "domain": "www.abov.co.kr",
+        "title": "어보브반도체 - 채용공고"
+      },
+      {
+        "url": "https://www.abov.co.kr/kr/about/recruitment_process.php",
+        "domain": "www.abov.co.kr",
+        "title": "어보브반도체 - 어보브반도체(주)"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/company/45780365/recruit",
+        "domain": "www.jobkorea.co.kr",
+        "title": "어보브반도체 채용 - 2025년 진행 중인 공고 총 9건"
+      },
+      {
+        "url": "https://www.abov.co.kr/bbs/board.php?tbl=job&mode=VIEW&num=39&category=&findType=&findWord=&sort1=&sort2=&page=1&mobile_flag=&language=kr",
+        "domain": "www.abov.co.kr",
+        "title": "어보브반도체 신입 / 경력직 채용 : 서울 / 오창본사 근무 글쓴이"
+      },
+      {
+        "url": "https://www.abov.co.kr/kr/main.php",
+        "domain": "www.abov.co.kr",
+        "title": "어보브반도체 소개"
+      },
+      {
+        "url": "https://www.abov.co.kr/bbs/board.php?tbl=job&mode=VIEW&num=36&type=&category=&findType=&findWord=&sort1=&sort2=&it_id=&shop_flag=&mobilflag=&page=1&language=kr",
+        "domain": "www.abov.co.kr",
+        "title": "어보브반도체 - 어보브반도체(주)"
+      },
+      {
+        "url": "https://www.abov.co.kr/kr/about/talent_development.php",
+        "domain": "www.abov.co.kr",
+        "title": "어보브반도체 - 어보브반도체(주)"
+      },
+      {
+        "url": "https://www.abov.co.kr/",
+        "domain": "www.abov.co.kr",
+        "title": "ABOV Semiconductor - ABOV Semiconductor Co.Ltd"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/47832092",
+        "domain": "www.jobkorea.co.kr",
+        "title": "어보브반도체(주) 채용 - MCU반도체 디지털 설계 (신입/경력)"
+      },
+      {
+        "url": "https://ee.kaist.ac.kr/jobs/8240/",
+        "domain": "ee.kaist.ac.kr",
+        "title": "[(주) 어보브반도체] 신입 및 경력직 채용 안내"
+      }
+    ]
+  },
+  {
+    "company": "위메이드맥스\thttp://www.wemademax.com",
+    "searchQuery": "위메이드맥스\thttp://www.wemademax.com 채용",
+    "timestamp": "2025-12-17T02:44:11.384Z",
+    "resultCount": 10,
+    "mainPlatform": "사람인",
+    "platformScore": 10.500000000000002,
+    "platformDetails": [
+      {
+        "name": "사람인",
+        "weight": 35,
+        "bestRank": 8,
+        "count": 1,
+        "domains": [
+          "www.saramin.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 10.500000000000002
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "bestRank": 1,
+        "count": 8,
+        "domains": [
+          "www.wemademax.com",
+          "www.gamejob.co.kr",
+          "recruit.wemade.com"
+        ],
+        "isDedicated": false,
+        "score": 10
+      },
+      {
+        "name": "잡코리아",
+        "weight": 40,
+        "bestRank": 10,
+        "count": 1,
+        "domains": [
+          "www.jobkorea.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 4.0000000000000036
+      }
+    ],
+    "results": [
+      {
+        "url": "https://www.wemademax.com/recruit",
+        "domain": "www.wemademax.com",
+        "title": "위메이드맥스"
+      },
+      {
+        "url": "http://www.gamejob.co.kr/Company/Detail?M=11525244",
+        "domain": "www.gamejob.co.kr",
+        "title": "(주)위메이드맥스 기업정보"
+      },
+      {
+        "url": "https://www.wemademax.com/",
+        "domain": "www.wemademax.com",
+        "title": "WEMADEMAX"
+      },
+      {
+        "url": "https://www.wemademax.com/games",
+        "domain": "www.wemademax.com",
+        "title": "Games"
+      },
+      {
+        "url": "https://www.wemademax.com/about",
+        "domain": "www.wemademax.com",
+        "title": "About"
+      },
+      {
+        "url": "https://www.wemademax.com/en/",
+        "domain": "www.wemademax.com",
+        "title": "ENG"
+      },
+      {
+        "url": "https://recruit.wemade.com/",
+        "domain": "recruit.wemade.com",
+        "title": "위메이드 - 채용 홈페이지"
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=52579615&srsltid=AfmBOoqFYPHxshQuKkUqRE-iiHNQEHQIA65LN62hi3WFISNpFgEXpECs",
+        "domain": "www.saramin.co.kr",
+        "title": "[위메이드맥스] IR 주니어 채용"
+      },
+      {
+        "url": "https://www.wemademax.com/ir/notice?idx=52",
+        "domain": "www.wemademax.com",
+        "title": "일반공고"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/46424354",
+        "domain": "www.jobkorea.co.kr",
+        "title": "[위메이드맥스] IR 신입사원 채용"
+      }
+    ]
+  },
+  {
+    "company": "이엔에프테크놀로지\thttp://www.enftech.com/",
+    "searchQuery": "이엔에프테크놀로지\thttp://www.enftech.com/ 채용",
+    "timestamp": "2025-12-17T02:44:19.966Z",
+    "resultCount": 10,
+    "mainPlatform": "자체",
+    "platformScore": 90,
+    "platformDetails": [
+      {
+        "name": "자체",
+        "weight": 90,
+        "count": 1,
+        "score": 90,
+        "bestRank": 1,
+        "domains": [
+          "www.enftech.com"
+        ]
+      }
+    ],
+    "results": [
+      {
+        "url": "https://www.enftech.com/%EC%9D%B8%EC%9E%AC%EC%B1%84%EC%9A%A9/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/",
+        "domain": "www.enftech.com",
+        "title": "채용공고"
+      },
+      {
+        "url": "https://www.enftech.com/",
+        "domain": "www.enftech.com",
+        "title": "이엔에프테크놀로지"
+      },
+      {
+        "url": "https://www.enftech.com/%EC%A0%9C%ED%92%88%EC%86%8C%EA%B0%9C/%EC%82%AC%EC%97%85%EB%B6%84%EC%95%BC/",
+        "domain": "www.enftech.com",
+        "title": "사업분야"
+      },
+      {
+        "url": "https://www.enftech.com/%ED%88%AC%EC%9E%90%EC%A0%95%EB%B3%B4/ir%EC%9E%90%EB%A3%8C%EC%8B%A4/",
+        "domain": "www.enftech.com",
+        "title": "IR자료실"
+      },
+      {
+        "url": "https://www.enftech.com/%ED%9A%8C%EC%82%AC%EC%86%8C%EA%B0%9C/%EC%82%AC%EC%97%85%EC%9E%A5/",
+        "domain": "www.enftech.com",
+        "title": "사업장"
+      },
+      {
+        "url": "https://www.incruit.com/company/903247/",
+        "domain": "www.incruit.com",
+        "title": "2025년 이엔에프테크놀로지 채용 기업정보"
+      },
+      {
+        "url": "https://www.enftech.com/%EC%9D%B8%EC%9E%AC%EC%B1%84%EC%9A%A9/%EC%B1%84%EC%9A%A9%EB%AC%B8%EC%9D%98/",
+        "domain": "www.enftech.com",
+        "title": "채용문의"
+      },
+      {
+        "url": "https://envi.jbnu.ac.kr/bbs/envi/1385/181710/artclView.do?layout=unknown",
+        "domain": "envi.jbnu.ac.kr",
+        "title": "(주)이엔에프테크놀로지 2020 하반기 신입 및 경력 채용 (~11.8)"
+      },
+      {
+        "url": "https://www.hibrain.net/recruitment/recruits/3553736?pagekey=3553736&listType=D3NEW&pagesize=10&sortType=SORTDTM&siteid=1",
+        "domain": "www.hibrain.net",
+        "title": "이엔에프테크놀로지 연구개발 경력직원 모집"
+      },
+      {
+        "url": "https://www.enftech.com/%EC%9D%B8%EC%9E%AC%EC%B1%84%EC%9A%A9/%EC%9D%B8%EC%82%AC%EC%A0%9C%EB%8F%84/",
+        "domain": "www.enftech.com",
+        "title": "인사제도"
+      }
+    ]
+  },
+  {
+    "company": "스맥\thttp://www.esmec.com",
+    "searchQuery": "스맥\thttp://www.esmec.com 채용",
+    "timestamp": "2025-12-17T02:44:33.326Z",
+    "resultCount": 10,
+    "mainPlatform": "자체",
+    "platformScore": 90,
+    "platformDetails": [
+      {
+        "name": "자체",
+        "weight": 90,
+        "count": 7,
+        "score": 90,
+        "bestRank": 2,
+        "domains": [
+          "www.esmec.com",
+          "www.esmec.co.kr"
+        ]
+      }
+    ],
+    "results": [
+      {
+        "url": "https://www.esmec.com/05_recruit/recruit_02.php",
+        "domain": "www.esmec.com",
+        "title": "인재채용 | 입사지원안내"
+      },
+      {
+        "url": "https://www.esmec.com/05_recruit/recruit_03.php",
+        "domain": "www.esmec.com",
+        "title": "인재채용 | 채용공고"
+      },
+      {
+        "url": "http://www.esmec.co.kr/05_recruit/recruit_03.php?code=recruit&bbsData=&mode=list",
+        "domain": "www.esmec.co.kr",
+        "title": "인재채용 | 채용공고"
+      },
+      {
+        "url": "https://www.esmec.com/05_recruit/recruit_01.php",
+        "domain": "www.esmec.com",
+        "title": "인재채용 | 인사제도"
+      },
+      {
+        "url": "https://www.esmec.com/05_recruit/recruit_03.php?code=recruit&page=1&bbsData=bm89MTA=%7C%7C&search=&searchstring=&mode=view",
+        "domain": "www.esmec.com",
+        "title": "인재채용 | 채용공고"
+      },
+      {
+        "url": "https://www.incruit.com/company/1565554/",
+        "domain": "www.incruit.com",
+        "title": "2025년 주식회사 스맥 채용 기업정보"
+      },
+      {
+        "url": "http://www.esmec.co.kr/05_recruit/recruit_03.php?code=recruit&page=1&bbsData=bm89MTQ=%7C%7C&search=&searchstring=&mode=view",
+        "domain": "www.esmec.co.kr",
+        "title": "인재채용 | 채용공고"
+      },
+      {
+        "url": "https://www.esmec.com/05_recruit/recruit_03.php?code=recruit&page=1&bbsData=bm89MTE=%7C%7C&search=&searchstring=&mode=view",
+        "domain": "www.esmec.com",
+        "title": "인재채용 | 채용공고"
+      },
+      {
+        "url": "https://www.esmec.com/05_recruit/recruit_03.php?code=recruit&page=1&bbsData=bm89MTU=%7C%7C&search=&searchstring=&mode=view",
+        "domain": "www.esmec.com",
+        "title": "인재채용 | 채용공고"
+      },
+      {
+        "url": "https://www.esmec.com/05_recruit/recruit_03.php?code=recruit&page=1&bbsData=bm89OQ==%7C%7C&search=&searchstring=&mode=view",
+        "domain": "www.esmec.com",
+        "title": "인재채용 | 채용공고"
+      }
+    ]
+  },
+  {
+    "company": "SDN\thttp://www.sdn-i.com",
+    "searchQuery": "SDN\thttp://www.sdn-i.com 채용",
+    "timestamp": "2025-12-17T02:44:50.414Z",
+    "resultCount": 10,
+    "mainPlatform": "잡코리아",
+    "platformScore": 24.000000000000004,
+    "platformDetails": [
+      {
+        "name": "잡코리아",
+        "weight": 40,
+        "bestRank": 5,
+        "count": 1,
+        "domains": [
+          "www.jobkorea.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 24.000000000000004
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "bestRank": 1,
+        "count": 9,
+        "domains": [
+          "www.sdn-i.com",
+          "solar.sdn-i.com",
+          "engine.sdn-i.com",
+          "ship.sdn-i.com",
+          "www.incruit.com"
+        ],
+        "isDedicated": false,
+        "score": 10
+      }
+    ],
+    "results": [
+      {
+        "url": "https://www.sdn-i.com/",
+        "domain": "www.sdn-i.com",
+        "title": "에스디엔 주식회사"
+      },
+      {
+        "url": "http://solar.sdn-i.com/",
+        "domain": "solar.sdn-i.com",
+        "title": "SDN(주) 태양광사업부"
+      },
+      {
+        "url": "http://engine.sdn-i.com/",
+        "domain": "engine.sdn-i.com",
+        "title": "에스디엔 엔진사업부 혼다마린..."
+      },
+      {
+        "url": "http://ship.sdn-i.com/",
+        "domain": "ship.sdn-i.com",
+        "title": "조선사업부"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/company/44239656/recruit",
+        "domain": "www.jobkorea.co.kr",
+        "title": "에스디엔엔지니어링 채용 - 2025년 진행 중인 공고 확인하기"
+      },
+      {
+        "url": "https://www.incruit.com/company/1414133/",
+        "domain": "www.incruit.com",
+        "title": "2025년 SDN㈜ 채용 기업정보"
+      },
+      {
+        "url": "http://engine.sdn-i.com/Customer/notice?act=view&idx=355&sst=&sod=&page=5",
+        "domain": "engine.sdn-i.com",
+        "title": "에스디엔 엔진사업부 홈페이지"
+      },
+      {
+        "url": "http://solar.sdn-i.com/board/board_detail?notice_key=613",
+        "domain": "solar.sdn-i.com",
+        "title": "한국신재생에너지연구소 연구인력 상시채용 공고"
+      },
+      {
+        "url": "http://solar.sdn-i.com/product/product01",
+        "domain": "solar.sdn-i.com",
+        "title": "태양광 모듈"
+      },
+      {
+        "url": "http://solar.sdn-i.com/company/company01",
+        "domain": "solar.sdn-i.com",
+        "title": "개요"
+      }
+    ]
+  },
+  {
+    "company": "한국정밀기계\thttp://www.hnkkorea.com",
+    "searchQuery": "한국정밀기계\thttp://www.hnkkorea.com 채용",
+    "timestamp": "2025-12-17T02:45:05.826Z",
+    "resultCount": 10,
+    "mainPlatform": "잡코리아",
+    "platformScore": 36.00000000000001,
+    "platformDetails": [
+      {
+        "name": "잡코리아",
+        "weight": 40,
+        "bestRank": 2,
+        "count": 2,
+        "domains": [
+          "www.jobkorea.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 36.00000000000001
+      },
+      {
+        "name": "원티드",
+        "weight": 50,
+        "bestRank": 4,
+        "count": 1,
+        "domains": [
+          "www.wanted.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 35
+      },
+      {
+        "name": "사람인",
+        "weight": 35,
+        "bestRank": 3,
+        "count": 1,
+        "domains": [
+          "www.saramin.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 28
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "bestRank": 1,
+        "count": 6,
+        "domains": [
+          "www.incruit.com",
+          "m.cafe.daum.net",
+          "www.komachine.com",
+          "www.catch.co.kr",
+          "ie.inha.ac.kr",
+          "dawoolppt.com"
+        ],
+        "isDedicated": false,
+        "score": 10
+      }
+    ],
+    "results": [
+      {
+        "url": "https://www.incruit.com/company/15546025/",
+        "domain": "www.incruit.com",
+        "title": "2025년 한국정밀기계 채용 기업정보"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/recruit/co_read/recruit/c/16891723",
+        "domain": "www.jobkorea.co.kr",
+        "title": "(주)한국정밀 채용 - 2025년 진행 중인 공고 확인하기"
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/N25PdTRsUDgvalB1K2JCU1lSOHBTdz09/company_nm/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B0%80%EA%B8%B0%EA%B3%84(%EC%A3%BC)?srsltid=AfmBOooj9HCdL2q_wGI41tTP3LmKtmb_JFU4zazCfTLlZnb5dkvjo3S3",
+        "domain": "www.saramin.co.kr",
+        "title": "한국정밀기계(주) 2025년 기업정보"
+      },
+      {
+        "url": "https://www.wanted.co.kr/company/a3bdbe69b1649569694ded0558e8bff52a4189b9",
+        "domain": "www.wanted.co.kr",
+        "title": "한국정밀기계 기업정보 - 평균연봉 ..."
+      },
+      {
+        "url": "https://m.cafe.daum.net/chra2678/1wHI/2627?listURI=%2Fchra2678%2F1wHI",
+        "domain": "m.cafe.daum.net",
+        "title": "한국정밀기계(함안) 전기 - ★★★★전졸채용게시판"
+      },
+      {
+        "url": "https://www.komachine.com/ko/companies/hnk-machine-tool",
+        "domain": "www.komachine.com",
+        "title": "한국정밀기계(주), 대한민국 - 코머신 판매자 소개 및 제품 소개"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/company/1676078/Recruit",
+        "domain": "www.jobkorea.co.kr",
+        "title": "한국정밀기계(주) 채용 - 2025년 진행 중인 공고 확인하기"
+      },
+      {
+        "url": "https://www.catch.co.kr/Comp/CompSummary/118350",
+        "domain": "www.catch.co.kr",
+        "title": "한국정밀기계 2025년 기업정보 - 주요사업·최신연봉"
+      },
+      {
+        "url": "https://ie.inha.ac.kr/bbs/ie/277/164910/artclView.do?layout=unknown",
+        "domain": "ie.inha.ac.kr",
+        "title": "취업정보 - [한국NSK] 신입/경력 사원 모집 (~11/07)"
+      },
+      {
+        "url": "https://dawoolppt.com/",
+        "domain": "dawoolppt.com",
+        "title": "HNK Machine Tool Co"
+      }
+    ]
+  },
+  {
+    "company": "흥국\thttp://www.heungkuk.co.kr",
+    "searchQuery": "흥국\thttp://www.heungkuk.co.kr 채용",
+    "timestamp": "2025-12-17T02:45:15.156Z",
+    "resultCount": 10,
+    "mainPlatform": "잡코리아",
+    "platformScore": 20,
+    "platformDetails": [
+      {
+        "name": "잡코리아",
+        "weight": 40,
+        "bestRank": 6,
+        "count": 1,
+        "domains": [
+          "www.jobkorea.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 20
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "bestRank": 1,
+        "count": 9,
+        "domains": [
+          "www.heungkuk.co.kr",
+          "www.heungkukfire.co.kr",
+          "www.incruit.com",
+          "heungkuk.co.kr",
+          "www.heungkuksec.co.kr",
+          "www.hk-ind.com",
+          "www.heungkuklife.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 10
+      }
+    ],
+    "results": [
+      {
+        "url": "http://www.heungkuk.co.kr/kor/recruit/menu_03.html",
+        "domain": "www.heungkuk.co.kr",
+        "title": "채용정보 - Heungkuk"
+      },
+      {
+        "url": "https://www.heungkukfire.co.kr/FRW/companyIntro/pubEmploy.do",
+        "domain": "www.heungkukfire.co.kr",
+        "title": "직원채용"
+      },
+      {
+        "url": "https://www.incruit.com/company/1174890/",
+        "domain": "www.incruit.com",
+        "title": "2025년 흥국 채용 기업정보"
+      },
+      {
+        "url": "http://heungkuk.co.kr/",
+        "domain": "heungkuk.co.kr",
+        "title": "흥국"
+      },
+      {
+        "url": "http://www.heungkuk.co.kr/kor/recruit/menu_01.html",
+        "domain": "www.heungkuk.co.kr",
+        "title": "인재채용 - 흥국"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/recruit/co_read/c/heungk",
+        "domain": "www.jobkorea.co.kr",
+        "title": "흥국 2025년 기업정보 - 직원수, 근무환경, 복리후생 등"
+      },
+      {
+        "url": "http://www.heungkuksec.co.kr/company/recruit/list.do?key=654",
+        "domain": "www.heungkuksec.co.kr",
+        "title": "흥국증권 : 채용소식"
+      },
+      {
+        "url": "http://www.hk-ind.com/sub06/sub05.php",
+        "domain": "www.hk-ind.com",
+        "title": "인재채용"
+      },
+      {
+        "url": "https://www.heungkuklife.co.kr/",
+        "domain": "www.heungkuklife.co.kr",
+        "title": "흥국생명"
+      },
+      {
+        "url": "https://www.heungkuk.co.kr/kor/recruit/menu_02.html",
+        "domain": "www.heungkuk.co.kr",
+        "title": "복리후생 - 흥국"
+      }
+    ]
+  },
+  {
+    "company": "우림피티에스\thttp://www.woorimgear.co.kr",
+    "searchQuery": "우림피티에스\thttp://www.woorimgear.co.kr 채용",
+    "timestamp": "2025-12-17T02:45:32.162Z",
+    "resultCount": 10,
+    "mainPlatform": "잡코리아",
+    "platformScore": 32,
+    "platformDetails": [
+      {
+        "name": "잡코리아",
+        "weight": 40,
+        "bestRank": 3,
+        "count": 1,
+        "domains": [
+          "www.jobkorea.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 32
+      },
+      {
+        "name": "사람인",
+        "weight": 35,
+        "bestRank": 4,
+        "count": 4,
+        "domains": [
+          "www.saramin.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 24.500000000000004
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "bestRank": 1,
+        "count": 5,
+        "domains": [
+          "www.woorimpts.com",
+          "www.incruit.com",
+          "www.korcham.net",
+          "ace.jnu.ac.kr",
+          "www.instagram.com"
+        ],
+        "isDedicated": false,
+        "score": 10
+      }
+    ],
+    "results": [
+      {
+        "url": "https://www.woorimpts.com/",
+        "domain": "www.woorimpts.com",
+        "title": "우림피티에스"
+      },
+      {
+        "url": "https://www.incruit.com/company/1683073496/",
+        "domain": "www.incruit.com",
+        "title": "2025년 우림피티에스 채용 기업정보"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/46296742",
+        "domain": "www.jobkorea.co.kr",
+        "title": "(주)코스 채용 - 우림피티에스 지게차 기사모집"
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=52553776&srsltid=AfmBOopwjr1CWENFOpWxPJzMrXLxN-H_5f4ErFoQjHK9f5vRwhRRJZwI",
+        "domain": "www.saramin.co.kr",
+        "title": "[우림피티에스(주)] 생산관리 신입 및 경력사원 채용 (D-30)"
+      },
+      {
+        "url": "http://www.korcham.net/filewebkorcham/etc/%EC%B2%A8%EB%B6%802.2012%EB%85%84_%EB%B3%91%EC%97%AD%EC%A7%80%EC%A0%95%EC%97%85%EC%B2%B4%20%ED%98%84%ED%99%A9_(%EA%B8%B0%EC%A1%B4%EC%97%85%EC%B2%B4_%EC%8B%A0%EC%B2%AD%EC%9A%A9).xlsx",
+        "domain": "www.korcham.net",
+        "title": "기간산업체 명부"
+      },
+      {
+        "url": "https://ace.jnu.ac.kr/bbs/ace/2610/773272/download.do",
+        "domain": "ace.jnu.ac.kr",
+        "title": "상장법인목록(EXCEL)"
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/M085NXNBb0dvL0ZRbEZvSm9yOXJWZz09/company_nm/%EC%9A%B0%EB%A6%BC%ED%94%BC%ED%8B%B0%EC%97%90%EC%8A%A4(%EC%A3%BC)?srsltid=AfmBOopNO7pjgae9VI6-Xs9A_gAkp7x_WLiLQW2LMPTOjG8_-9GLT43O",
+        "domain": "www.saramin.co.kr",
+        "title": "우림피티에스(주) 2025년 기업정보"
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=52296071&srsltid=AfmBOorJG_SwpPLRGiFcUF1VpGUreIcrAfgMBuv6T9Vv0HxbOhjnrmmc",
+        "domain": "www.saramin.co.kr",
+        "title": "[우림피티에스(주)] 생산기술팀 경력직 채용 (D-30)"
+      },
+      {
+        "url": "https://www.instagram.com/p/C7nQBRvSs5h/",
+        "domain": "www.instagram.com",
+        "title": ""
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/M085NXNBb0dvL0ZRbEZvSm9yOXJWZz09/company_nm/%EC%9A%B0%EB%A6%BC%ED%94%BC%ED%8B%B0%EC%97%90%EC%8A%A4(%EC%A3%BC)?srsltid=AfmBOopPACgh3oW6r2tbtw7P3DmLAH3youJ6Gt-dUQ-lGCklfkxrndjK",
+        "domain": "www.saramin.co.kr",
+        "title": ""
+      }
+    ]
+  },
+  {
+    "company": "티플랙스\thttp://www.tplex.co.kr",
+    "searchQuery": "티플랙스\thttp://www.tplex.co.kr 채용",
+    "timestamp": "2025-12-17T02:45:48.470Z",
+    "resultCount": 10,
+    "mainPlatform": "잡코리아",
+    "platformScore": 40,
+    "platformDetails": [
+      {
+        "name": "잡코리아",
+        "weight": 40,
+        "bestRank": 1,
+        "count": 2,
+        "domains": [
+          "www.jobkorea.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 40
+      },
+      {
+        "name": "사람인",
+        "weight": 35,
+        "bestRank": 3,
+        "count": 1,
+        "domains": [
+          "www.saramin.co.kr"
+        ],
+        "isDedicated": false,
+        "score": 28
+      },
+      {
+        "name": "Other",
+        "weight": 10,
+        "bestRank": 2,
+        "count": 7,
+        "domains": [
+          "www.tplex.co.kr",
+          "www.co-worker.co.kr",
+          "www.komachine.com"
+        ],
+        "isDedicated": false,
+        "score": 9.000000000000002
+      }
+    ],
+    "results": [
+      {
+        "url": "https://www.jobkorea.co.kr/company/46320208/recruit",
+        "domain": "www.jobkorea.co.kr",
+        "title": "티플랙스 채용 - 2025년 진행 중인 공고 확인하기"
+      },
+      {
+        "url": "http://www.tplex.co.kr/",
+        "domain": "www.tplex.co.kr",
+        "title": "티플랙스"
+      },
+      {
+        "url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/OWJac1p6dXBxKzhWSXRTRFNyTWN2QT09/company_nm/(%EC%A3%BC)%ED%8B%B0%ED%94%8C%EB%9E%99%EC%8A%A4?srsltid=AfmBOoo2IHuxlaLZnTi9JPgECDCTWnJfCbdNOkRp_XC5mWprgdsSWKW5",
+        "domain": "www.saramin.co.kr",
+        "title": "(주)티플랙스 2025년 기업정보 | 직원수, 근무환경, 복리후생 등"
+      },
+      {
+        "url": "http://www.tplex.co.kr/about/",
+        "domain": "www.tplex.co.kr",
+        "title": "회사개요"
+      },
+      {
+        "url": "https://www.co-worker.co.kr/Recruit/recruit_view?idx=67491",
+        "domain": "www.co-worker.co.kr",
+        "title": "[티플렉스] 영업관리 초대졸 이상 연봉 3400..."
+      },
+      {
+        "url": "http://www.tplex.co.kr/about/about05.php",
+        "domain": "www.tplex.co.kr",
+        "title": "조직도"
+      },
+      {
+        "url": "https://www.komachine.com/ko/companies/tplex",
+        "domain": "www.komachine.com",
+        "title": "(주)티플랙스, 대한민국 - 코머신 판매자 소개 및 제품 소개"
+      },
+      {
+        "url": "http://www.tplex.co.kr/about/about04.php",
+        "domain": "www.tplex.co.kr",
+        "title": "연혁"
+      },
+      {
+        "url": "https://www.jobkorea.co.kr/company/44669066/Recruit",
+        "domain": "www.jobkorea.co.kr",
+        "title": "티플렉스 채용 - 2025년 진행 중인 공고 확인하기"
+      },
+      {
+        "url": "http://www.tplex.co.kr/about/about02.php",
+        "domain": "www.tplex.co.kr",
+        "title": "CEO 인사말"
+      }
+    ]
+  }
+]
