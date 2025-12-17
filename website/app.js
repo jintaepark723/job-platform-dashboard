@@ -41,6 +41,12 @@ function processData() {
 
     allData.forEach(company => {
         const platform = company.mainPlatform || 'Unknown';
+
+        // "error"와 "사람인 의심" 데이터는 제외
+        if (platform === 'error' || platform === '사람인 의심') {
+            return;
+        }
+
         if (!platformStats[platform]) {
             platformStats[platform] = {
                 count: 0,
@@ -59,7 +65,13 @@ function processData() {
 
 // 통계 업데이트
 function updateStats() {
-    const totalCompanies = allData.length;
+    // error와 사람인 의심을 제외한 회사 수 계산
+    const validCompanies = allData.filter(company => {
+        const platform = company.mainPlatform || 'Unknown';
+        return platform !== 'error' && platform !== '사람인 의심';
+    });
+
+    const totalCompanies = validCompanies.length;
     const platformCount = Object.keys(platformStats).length;
 
     document.getElementById('total-companies').textContent = totalCompanies.toLocaleString();
