@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "totalCompanies": 120,
-    "crawledAt": "2025-12-17T05:44:34.480Z"
+    "totalCompanies": 150,
+    "crawledAt": "2025-12-17T06:06:54.458Z"
   },
   "results": [
     {
@@ -8446,7 +8446,7 @@
     {
       "company": "HS효성첨단소재\thttp://www.hyosungadvancedmaterials.com",
       "searchQuery": "HS효성첨단소재\thttp://www.hyosungadvancedmaterials.com 채용",
-      "timestamp": "2025-12-17T05:42:48.059Z",
+      "timestamp": "2025-12-17T05:59:38.554Z",
       "resultCount": 10,
       "mainPlatform": "그룹채용",
       "platformScore": 95,
@@ -8518,7 +8518,7 @@
     {
       "company": "효성중공업\thttp://www.hyosungheavyindustries.com",
       "searchQuery": "효성중공업\thttp://www.hyosungheavyindustries.com 채용",
-      "timestamp": "2025-12-17T05:42:59.943Z",
+      "timestamp": "2025-12-17T05:59:48.691Z",
       "resultCount": 10,
       "mainPlatform": "그룹채용",
       "platformScore": 95,
@@ -8590,7 +8590,7 @@
     {
       "company": "효성티앤씨\thttp://www.hyosungtnc.com",
       "searchQuery": "효성티앤씨\thttp://www.hyosungtnc.com 채용",
-      "timestamp": "2025-12-17T05:43:15.009Z",
+      "timestamp": "2025-12-17T06:00:01.936Z",
       "resultCount": 10,
       "mainPlatform": "그룹채용",
       "platformScore": 95,
@@ -8662,7 +8662,7 @@
     {
       "company": "효성화학\thttp://www.hyosungchemical.com",
       "searchQuery": "효성화학\thttp://www.hyosungchemical.com 채용",
-      "timestamp": "2025-12-17T05:43:27.603Z",
+      "timestamp": "2025-12-17T06:00:16.275Z",
       "resultCount": 10,
       "mainPlatform": "그룹채용",
       "platformScore": 95,
@@ -8734,7 +8734,7 @@
     {
       "company": "이리츠코크렙",
       "searchQuery": "이리츠코크렙 채용",
-      "timestamp": "2025-12-17T05:43:38.852Z",
+      "timestamp": "2025-12-17T06:00:23.198Z",
       "resultCount": 10,
       "mainPlatform": "잡코리아",
       "platformScore": 40,
@@ -8769,11 +8769,12 @@
           "domains": [
             "ereits.co.kr",
             "www.kareit.or.kr",
+            "www.thebell.co.kr",
             "www.ereits.co.kr",
             "seoulpi.io",
-            "www.thebell.co.kr",
             "www.savills.co.kr",
-            "biz.chosun.com"
+            "biz.chosun.com",
+            "www.emforce.co.kr"
           ],
           "isDedicated": false,
           "score": 9.000000000000002
@@ -8791,7 +8792,7 @@
           "title": "이리츠코크렙"
         },
         {
-          "url": "https://www.saramin.co.kr/zf_user/jobs/public/top-group?group_nm=%EC%9D%B4%EB%9E%9C%EB%93%9C&srsltid=AfmBOoo04XWGAQV8RkmvBkTrge8kUewgcY-KuyeT11G6bYMJ-plGUcNc",
+          "url": "https://www.saramin.co.kr/zf_user/jobs/public/top-group?group_nm=%EC%9D%B4%EB%9E%9C%EB%93%9C&srsltid=AfmBOorKfKTuYkHdgyKHHXUkpOCaGEggnfMrwrffoExSaPwzgnA1nbnd",
           "domain": "www.saramin.co.kr",
           "title": "그룹사별 공채"
         },
@@ -8799,6 +8800,11 @@
           "url": "https://www.kareit.or.kr/",
           "domain": "www.kareit.or.kr",
           "title": "한국리츠협회"
+        },
+        {
+          "url": "http://www.thebell.co.kr/free/content/ArticleView.asp?key=202305091529234280106589&lcode=00",
+          "domain": "www.thebell.co.kr",
+          "title": "[상장 리츠(REITs) 대해부]코람코 첫 상장 이리츠코크렙 ..."
         },
         {
           "url": "http://www.ereits.co.kr/information/ir_list.do",
@@ -8811,11 +8817,6 @@
           "title": "주가 급락한 이리츠코크렙이 주주들에게 보낸 서한"
         },
         {
-          "url": "http://www.thebell.co.kr/free/content/ArticleView.asp?key=202305091529234280106589&lcode=00",
-          "domain": "www.thebell.co.kr",
-          "title": "[상장 리츠(REITs) 대해부]코람코 첫 상장 이리츠코크렙 ..."
-        },
-        {
           "url": "https://www.savills.co.kr/insight-and-opinion/savills-news/225038/%EC%84%B8%EB%B9%8C%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84--%EC%BD%94%EB%9E%8C%EC%BD%94%EC%9E%90%EC%82%B0%EC%8B%A0%ED%83%81-%EC%83%81%EC%9E%A5%EB%A6%AC%EC%B8%A0-cpm-%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-%ED%8C%8C%ED%8A%B8%EB%84%88%EB%A1%9C-%EC%84%A0%EC%A0%95",
           "domain": "www.savills.co.kr",
           "title": "세빌스코리아, 코람코자산신탁 상장리츠 CPM 체계 구축 ..."
@@ -8826,16 +8827,16 @@
           "title": "[단독] 주주 격렬 반대 의식했나... 이리츠코크렙, 강남e스퀘어 ..."
         },
         {
-          "url": "https://seoulpi.io/reitsfocus/article/00477739481879031808",
-          "domain": "seoulpi.io",
-          "title": ""
+          "url": "http://www.emforce.co.kr/daf/%EC%97%94%EC%97%90%EC%9D%B4%EC%B9%98%20%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C%20%EC%B1%84%EC%9A%A9",
+          "domain": "www.emforce.co.kr",
+          "title": "엔에이치 투자증권 채용"
         }
       ]
     },
     {
       "company": "HDC현대산업개발\thttp://www.hdc-dvp.com",
       "searchQuery": "HDC현대산업개발\thttp://www.hdc-dvp.com 채용",
-      "timestamp": "2025-12-17T05:43:48.913Z",
+      "timestamp": "2025-12-17T06:00:35.795Z",
       "resultCount": 10,
       "mainPlatform": "마이다스인",
       "platformScore": 80,
@@ -8907,7 +8908,7 @@
     {
       "company": "애경산업\thttp://www.aekyung.co.kr",
       "searchQuery": "애경산업\thttp://www.aekyung.co.kr 채용",
-      "timestamp": "2025-12-17T05:44:02.569Z",
+      "timestamp": "2025-12-17T06:00:46.203Z",
       "resultCount": 10,
       "mainPlatform": "그리팅",
       "platformScore": 80,
@@ -8945,14 +8946,14 @@
           "title": "2025년 애경산업 채용 기업정보"
         },
         {
-          "url": "https://www.incruit.com/company/565150/",
-          "domain": "www.incruit.com",
-          "title": "2025년 애경산업 채용 기업정보"
-        },
-        {
           "url": "https://www.sejong.go.kr/prog/fastRecruitment/job/sub01_03/view.do?empSeqno=132015",
           "domain": "www.sejong.go.kr",
           "title": "고용24 공채속보 > 일자리찾기 >"
+        },
+        {
+          "url": "https://www.incruit.com/company/565150/",
+          "domain": "www.incruit.com",
+          "title": "2025년 애경산업 채용 기업정보"
         },
         {
           "url": "https://aekyungchemical.applyin.co.kr/",
@@ -8979,7 +8980,7 @@
     {
       "company": "셀트리온\thttp://www.celltrion.com",
       "searchQuery": "셀트리온\thttp://www.celltrion.com 채용",
-      "timestamp": "2025-12-17T05:44:12.362Z",
+      "timestamp": "2025-12-17T06:00:57.755Z",
       "resultCount": 10,
       "mainPlatform": "공고없음",
       "platformScore": 0,
@@ -9054,7 +9055,7 @@
     {
       "company": "SK케미칼\thttp://www.skchemicals.com",
       "searchQuery": "SK케미칼\thttp://www.skchemicals.com 채용",
-      "timestamp": "2025-12-17T05:44:21.027Z",
+      "timestamp": "2025-12-17T06:01:07.041Z",
       "resultCount": 10,
       "mainPlatform": "마이다스인",
       "platformScore": 80,
@@ -9126,7 +9127,7 @@
     {
       "company": "BGF리테일\thttp://www.bgfretail.com",
       "searchQuery": "BGF리테일\thttp://www.bgfretail.com 채용",
-      "timestamp": "2025-12-17T05:44:34.474Z",
+      "timestamp": "2025-12-17T06:01:19.549Z",
       "resultCount": 10,
       "mainPlatform": "그룹채용",
       "platformScore": 95,
@@ -9179,11 +9180,6 @@
           "title": "BGF리테일"
         },
         {
-          "url": "https://m.incruit.com/jobdb_info/jobpost.asp?job=2511040002800&startno=35&ct=1&ty=2&cd=565",
-          "domain": "m.incruit.com",
-          "title": "[BGF리테일] 전국 점포개발 경력사원 상시채용"
-        },
-        {
           "url": "https://www.bgfretail.com/press/view/?id=490",
           "domain": "www.bgfretail.com",
           "title": "BGF리테일, 2023년 상반기 신입사원 공개 채용 나선다"
@@ -9192,6 +9188,2252 @@
           "url": "https://blog.naver.com/cu_bgfretail/220114243570?viewType=pc",
           "domain": "blog.naver.com",
           "title": "채용 ☆ 취업 ★ BGF리테일 하반기 채용 완전정복"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/starter/jobfair/view?gi_prtn_no=664",
+          "domain": "www.jobkorea.co.kr",
+          "title": "(주)BGF리테일 채용설명회 - 신입공채"
+        }
+      ]
+    },
+    {
+      "company": "진에어\thttp://www.jinair.com",
+      "searchQuery": "진에어\thttp://www.jinair.com 채용",
+      "timestamp": "2025-12-17T06:01:28.977Z",
+      "resultCount": 10,
+      "mainPlatform": "마이다스인",
+      "platformScore": 80,
+      "platformDetails": [
+        {
+          "name": "마이다스인",
+          "weight": 80,
+          "count": 6,
+          "score": 80,
+          "bestRank": 1,
+          "domains": [
+            "jinair.recruiter.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://jinair.recruiter.co.kr/",
+          "domain": "jinair.recruiter.co.kr",
+          "title": "진에어 채용"
+        },
+        {
+          "url": "https://jinair.recruiter.co.kr/app/applicant/myPage/login",
+          "domain": "jinair.recruiter.co.kr",
+          "title": "마이페이지"
+        },
+        {
+          "url": "https://jinair.recruiter.co.kr/appsite/company/callSubPage?code1=4000&code2=4100",
+          "domain": "jinair.recruiter.co.kr",
+          "title": "인사제도"
+        },
+        {
+          "url": "https://jinair.recruiter.co.kr/appsite/company/callSubPage?code1=4000&code2=4300",
+          "domain": "jinair.recruiter.co.kr",
+          "title": "JINI FIT"
+        },
+        {
+          "url": "https://jinair.recruiter.co.kr/app/applicant/registResume",
+          "domain": "jinair.recruiter.co.kr",
+          "title": "입사지원"
+        },
+        {
+          "url": "https://www.incruit.com/company/1661061784/",
+          "domain": "www.incruit.com",
+          "title": "2025년 진에어 채용 기업정보"
+        },
+        {
+          "url": "https://www.jinair.com/",
+          "domain": "www.jinair.com",
+          "title": "진에어: en-us"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/company/1851298/recruit",
+          "domain": "www.jobkorea.co.kr",
+          "title": "진에어 채용 - 2025년 진행 중인 공고 총 3건"
+        },
+        {
+          "url": "https://jinair.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=169452",
+          "domain": "jinair.recruiter.co.kr",
+          "title": "채용공고 | 채용정보 | 진에어"
+        },
+        {
+          "url": "https://www.bzpp.co.kr/enterprise/companyHome/PC181101A00004",
+          "domain": "www.bzpp.co.kr",
+          "title": "진에어 기업정보 - 비즈니스피플 | 핵심인재 채용 ..."
+        }
+      ]
+    },
+    {
+      "company": "케이씨텍\thttp://www.kctech.co.kr",
+      "searchQuery": "케이씨텍\thttp://www.kctech.co.kr 채용",
+      "timestamp": "2025-12-17T06:01:42.275Z",
+      "resultCount": 10,
+      "mainPlatform": "마이다스인",
+      "platformScore": 80,
+      "platformDetails": [
+        {
+          "name": "마이다스인",
+          "weight": 80,
+          "count": 5,
+          "score": 80,
+          "bestRank": 1,
+          "domains": [
+            "kc-group.recruiter.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://kc-group.recruiter.co.kr/",
+          "domain": "kc-group.recruiter.co.kr",
+          "title": "케이씨텍 채용"
+        },
+        {
+          "url": "https://kc-group.recruiter.co.kr/app/jobnotice/list",
+          "domain": "kc-group.recruiter.co.kr",
+          "title": "채용정보"
+        },
+        {
+          "url": "https://kc-group.recruiter.co.kr/appsite/company/callSubPage?code1=4000&code2=4300",
+          "domain": "kc-group.recruiter.co.kr",
+          "title": "CMP연구소"
+        },
+        {
+          "url": "https://kc-group.recruiter.co.kr/appsite/company/callSubPage?code1=4000&code2=4100",
+          "domain": "kc-group.recruiter.co.kr",
+          "title": "직무소개"
+        },
+        {
+          "url": "https://kc-group.recruiter.co.kr/bbs/appsite/notice/list",
+          "domain": "kc-group.recruiter.co.kr",
+          "title": "공지사항"
+        },
+        {
+          "url": "https://www.kctech.com/",
+          "domain": "www.kctech.com",
+          "title": "케이씨텍: KCTech"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/47997149",
+          "domain": "www.jobkorea.co.kr",
+          "title": "케이씨텍 채용연계형 인턴 모집(CS/제조)"
+        },
+        {
+          "url": "https://www.gachon.ac.kr/bbs/chipboot/1599/112182/artclView.do",
+          "domain": "www.gachon.ac.kr",
+          "title": "[채용공고] 케이씨텍 반도체 CMP 공정 소재 개발 연구원 모집 ..."
+        },
+        {
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2508140001914",
+          "domain": "job.incruit.com",
+          "title": "반도체 장비 PC 제어 소프트웨어 개발자 채용(신입/경력)"
+        },
+        {
+          "url": "https://www.sejong.go.kr/prog/fastRecruitment/job/sub01_03/view.do?empSeqno=85503",
+          "domain": "www.sejong.go.kr",
+          "title": "고용24 공채속보 > 일자리찾기 >"
+        }
+      ]
+    },
+    {
+      "company": "삼양패키징\thttp://www.samyangpackaging.co.kr/",
+      "searchQuery": "삼양패키징\thttp://www.samyangpackaging.co.kr/ 채용",
+      "timestamp": "2025-12-17T06:01:52.051Z",
+      "resultCount": 10,
+      "mainPlatform": "잡코리아",
+      "platformScore": 20,
+      "platformDetails": [
+        {
+          "name": "잡코리아",
+          "weight": 40,
+          "bestRank": 6,
+          "count": 1,
+          "domains": [
+            "www.jobkorea.co.kr"
+          ],
+          "isDedicated": false,
+          "score": 20
+        },
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 9,
+          "domains": [
+            "www.samyangpackaging.co.kr",
+            "samyangpackaging.co.kr",
+            "www.samyang.com",
+            "recruit-samyang.com",
+            "www.samyang.co.kr",
+            "www.catch.co.kr"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.samyangpackaging.co.kr/",
+          "domain": "www.samyangpackaging.co.kr",
+          "title": "삼양패키징"
+        },
+        {
+          "url": "https://samyangpackaging.co.kr/kr/company/about",
+          "domain": "samyangpackaging.co.kr",
+          "title": "회사소개"
+        },
+        {
+          "url": "https://www.samyangpackaging.co.kr/kr/business/aseptic-filling",
+          "domain": "www.samyangpackaging.co.kr",
+          "title": "Aseptic Beverage"
+        },
+        {
+          "url": "https://www.samyangpackaging.co.kr/kr/business/overview",
+          "domain": "www.samyangpackaging.co.kr",
+          "title": "사업분야"
+        },
+        {
+          "url": "https://samyangpackaging.co.kr/kr/business/pet-container",
+          "domain": "samyangpackaging.co.kr",
+          "title": "PET용기"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/recruit/co_read/c/c-037424",
+          "domain": "www.jobkorea.co.kr",
+          "title": "삼양패키징 2025년 기업정보 - 직원수, 근무환경, 복리후생 등"
+        },
+        {
+          "url": "https://www.samyang.com/kr/careers/overview",
+          "domain": "www.samyang.com",
+          "title": "삼양 Careerㅣ채용ㅣ삼양그룹"
+        },
+        {
+          "url": "https://recruit-samyang.com/",
+          "domain": "recruit-samyang.com",
+          "title": "삼양그룹 신입사원 모집"
+        },
+        {
+          "url": "https://www.samyang.co.kr/kr/careers/job-introduction/packaging-sales",
+          "domain": "www.samyang.co.kr",
+          "title": "직무소개ㅣ채용ㅣ삼양그룹"
+        },
+        {
+          "url": "https://www.catch.co.kr/Comp/RecruitInfo/M31031",
+          "domain": "www.catch.co.kr",
+          "title": "삼양패키징 2025년 채용정보"
+        }
+      ]
+    },
+    {
+      "company": "테이팩스\thttp://tapex.co.kr",
+      "searchQuery": "테이팩스\thttp://tapex.co.kr 채용",
+      "timestamp": "2025-12-17T06:02:02.671Z",
+      "resultCount": 10,
+      "mainPlatform": "공고없음",
+      "platformScore": 0,
+      "platformDetails": [
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 10,
+          "domains": [
+            "www.tapex.co.kr",
+            "www.catch.co.kr",
+            "job.incruit.com"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.tapex.co.kr/sub/sub06_03.php",
+          "domain": "www.tapex.co.kr",
+          "title": "채용 프로세스"
+        },
+        {
+          "url": "https://www.tapex.co.kr/sub/sub06_05.php?boardid=job&mode=view&idx=6",
+          "domain": "www.tapex.co.kr",
+          "title": "채용"
+        },
+        {
+          "url": "https://www.tapex.co.kr/sub/sub06_05.php?mNum=6&sNum=5&boardid=job&mode=view&idx=7",
+          "domain": "www.tapex.co.kr",
+          "title": "채용"
+        },
+        {
+          "url": "http://www.tapex.co.kr/",
+          "domain": "www.tapex.co.kr",
+          "title": "테이팩스"
+        },
+        {
+          "url": "https://www.tapex.co.kr/sub/sub06_01.php",
+          "domain": "www.tapex.co.kr",
+          "title": "채용"
+        },
+        {
+          "url": "https://www.tapex.co.kr/sub/sub05_01.php",
+          "domain": "www.tapex.co.kr",
+          "title": "제품"
+        },
+        {
+          "url": "https://www.tapex.co.kr/sub/sub01_03_01.php",
+          "domain": "www.tapex.co.kr",
+          "title": "사업장소개"
+        },
+        {
+          "url": "https://www.tapex.co.kr/sub/sub06_05.php?boardid=job&mode=view&idx=9&sk=&sw=&offset=&category=",
+          "domain": "www.tapex.co.kr",
+          "title": "채용"
+        },
+        {
+          "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/223052",
+          "domain": "www.catch.co.kr",
+          "title": "[테이팩스] 2022년 각부문 신입 및 경력사원 채용"
+        },
+        {
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2404300002192",
+          "domain": "job.incruit.com",
+          "title": "2024년 전자재료사업부 생산지원팀(자재,출하 관리) 채용"
+        }
+      ]
+    },
+    {
+      "company": "롯데웰푸드\thttp://www.lottewellfood.com",
+      "searchQuery": "롯데웰푸드\thttp://www.lottewellfood.com 채용",
+      "timestamp": "2025-12-17T06:02:12.266Z",
+      "resultCount": 10,
+      "mainPlatform": "그룹채용",
+      "platformScore": 95,
+      "platformDetails": [
+        {
+          "name": "그룹채용",
+          "weight": 95,
+          "count": 2,
+          "score": 95,
+          "bestRank": 3,
+          "domains": [
+            "mrecruit.lotte.co.kr",
+            "recruit.lotte.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://careers.lottewellfood.com/go/ALL-JOBS/507650/",
+          "domain": "careers.lottewellfood.com",
+          "title": "모두 - 채용 구분 - LOTTE WELLFOOD CAREERS - 롯데웰푸드"
+        },
+        {
+          "url": "https://careers.lottewellfood.com/content/Talent-Pool/?locale=ko_KR",
+          "domain": "careers.lottewellfood.com",
+          "title": "인재DB 등록 - LOTTE WELLFOOD CAREERS - 롯데웰푸드"
+        },
+        {
+          "url": "https://mrecruit.lotte.co.kr/companylife/affiliate/detail?compcd=10001",
+          "domain": "mrecruit.lotte.co.kr",
+          "title": "롯데웰푸드 - 계열사/직무 상세"
+        },
+        {
+          "url": "https://careers.lottewellfood.com/job/%EA%B9%80%EC%B2%9C%EA%B3%B5%EC%9E%A5-%EB%A1%AF%EB%8D%B0%EC%9B%B0%ED%91%B8%EB%93%9C%28%EC%A3%BC%29-%EA%B9%80%EC%B2%9C%EA%B3%B5%EC%9E%A5-%EC%83%9D%EC%82%B0%EB%8B%B4%EB%8B%B9-%EB%AA%A8%EC%A7%91-%EA%B9%80%EC%B2%9C%EA%B3%B5%EC%9E%A5/3731750/",
+          "domain": "careers.lottewellfood.com",
+          "title": "롯데웰푸드(주) 김천공장 생산담당 모집"
+        },
+        {
+          "url": "https://careers.lottewellfood.com/job/%EA%B8%B0%ED%83%80-%EC%84%9C%EC%9A%B8%2C-%EB%B6%80%EC%82%B0%2C-%EC%A0%84%EB%82%A8%2C-%EA%B0%95%EC%9B%90-%EC%A7%80%EC%97%AD-%EC%98%81%EC%96%91%EC%82%AC-%EC%B1%84%EC%9A%A9-%EA%B8%B0%ED%83%80/3727850/",
+          "domain": "careers.lottewellfood.com",
+          "title": "서울, 부산, 전남, 강원 지역 영양사 채용"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48193103",
+          "domain": "www.jobkorea.co.kr",
+          "title": "롯데웰푸드(주) 김천공장 생산담당 정규직 채용"
+        },
+        {
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2509030001142",
+          "domain": "job.incruit.com",
+          "title": "2025년도 9월 롯데웰푸드 신입사원 채용 일반전형"
+        },
+        {
+          "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21703347",
+          "domain": "recruit.lotte.co.kr",
+          "title": "롯데웰푸드 - 입사지원 - 롯데그룹채용"
+        },
+        {
+          "url": "https://www.saramin.co.kr/zf_user/company-info/view-inner-recruit/csn/emU0YlRmWHozKyt5eHJvTFNXNlpoZz09/company_nm/%EB%A1%AF%EB%8D%B0%EC%A0%9C%EA%B3%BC(%EC%A3%BC)?nomo=1&srsltid=AfmBOorN5M63cOswo0jeycJmy9VbeB-aZI2gnhnMMbEClrgIJSl70bhs",
+          "domain": "www.saramin.co.kr",
+          "title": "롯데웰푸드(주) 채용 | 2025년 진행 중인 공고 2건"
+        },
+        {
+          "url": "https://www.catch.co.kr/Comp/RecruitInfo/IV0057",
+          "domain": "www.catch.co.kr",
+          "title": "롯데웰푸드 2025년 채용정보"
+        }
+      ]
+    },
+    {
+      "company": "제일약품\thttp://www.jeilpharm.co.kr",
+      "searchQuery": "제일약품\thttp://www.jeilpharm.co.kr 채용",
+      "timestamp": "2025-12-17T06:02:21.069Z",
+      "resultCount": 10,
+      "mainPlatform": "마이다스인",
+      "platformScore": 80,
+      "platformDetails": [
+        {
+          "name": "마이다스인",
+          "weight": 80,
+          "count": 2,
+          "score": 80,
+          "bestRank": 1,
+          "domains": [
+            "jeil.recruiter.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://jeil.recruiter.co.kr/career/home",
+          "domain": "jeil.recruiter.co.kr",
+          "title": "제일약품 채용 | 채용사이트"
+        },
+        {
+          "url": "https://www.jeilpharm.co.kr/",
+          "domain": "www.jeilpharm.co.kr",
+          "title": "제일약품"
+        },
+        {
+          "url": "https://jeil.recruiter.co.kr/career/job",
+          "domain": "jeil.recruiter.co.kr",
+          "title": "채용 공고"
+        },
+        {
+          "url": "https://www.jeilpharm.co.kr/jeilpharm_mobile/rec_notice.asp",
+          "domain": "www.jeilpharm.co.kr",
+          "title": "제일약품"
+        },
+        {
+          "url": "https://www.jeilpharm.co.kr/jeilpharm/?direct=Y",
+          "domain": "www.jeilpharm.co.kr",
+          "title": "제일제약"
+        },
+        {
+          "url": "https://www.hibrain.net/recruitment/recruits/3551493?listType=D3NEW&limit=25&pagesize=10&sortType=SORTDTM&displayType=TIT&siteid=1",
+          "domain": "www.hibrain.net",
+          "title": "제일약품 제제기술연구소 직원 모집"
+        },
+        {
+          "url": "https://www.jeilpharm.co.kr/jeilpharm_mobile/rec_notice_view.asp?seq=80&page=1&skey=&sword=",
+          "domain": "www.jeilpharm.co.kr",
+          "title": "시작일 2021.01.20 마감일 2021.05.03 진행사항 마감"
+        },
+        {
+          "url": "https://pharm.skku.edu/bbs/board.php?bo_table=recruit&wr_id=221&page=110",
+          "domain": "pharm.skku.edu",
+          "title": "제일약품주식회사 > 채용정보 - 성균관대학교 약학대학"
+        },
+        {
+          "url": "https://www.jeilpharm.co.kr/jeilrecurit/reward_roll.asp",
+          "domain": "www.jeilpharm.co.kr",
+          "title": "제목없음"
+        },
+        {
+          "url": "https://www.jeilhs.co.kr:442/jeilpharm_mobile/rec_info.asp",
+          "domain": "www.jeilhs.co.kr",
+          "title": "제일약품 - 제일헬스사이언스"
+        }
+      ]
+    },
+    {
+      "company": "카카오\thttp://www.kakaocorp.com",
+      "searchQuery": "카카오\thttp://www.kakaocorp.com 채용",
+      "timestamp": "2025-12-17T06:02:34.425Z",
+      "resultCount": 10,
+      "mainPlatform": "공고없음",
+      "platformScore": 0,
+      "platformDetails": [
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 10,
+          "domains": [
+            "careers.kakao.com",
+            "www.kakaocorp.com"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "https://careers.kakao.com/",
+          "domain": "careers.kakao.com",
+          "title": "카카오 채용"
+        },
+        {
+          "url": "https://careers.kakao.com/kakaolife",
+          "domain": "careers.kakao.com",
+          "title": "카카오 생활"
+        },
+        {
+          "url": "https://careers.kakao.com/jobs",
+          "domain": "careers.kakao.com",
+          "title": "닫기"
+        },
+        {
+          "url": "https://careers.kakao.com/login",
+          "domain": "careers.kakao.com",
+          "title": "로그인"
+        },
+        {
+          "url": "https://careers.kakao.com/krewstory",
+          "domain": "careers.kakao.com",
+          "title": "크루 이야기"
+        },
+        {
+          "url": "https://www.kakaocorp.com/page/group/recruitment",
+          "domain": "www.kakaocorp.com",
+          "title": "2026 카카오그룹 신입크루 공채 | kakao"
+        },
+        {
+          "url": "https://www.kakaocorp.com/page/",
+          "domain": "www.kakaocorp.com",
+          "title": "카카오"
+        },
+        {
+          "url": "https://www.kakaocorp.com/page/about/culture",
+          "domain": "www.kakaocorp.com",
+          "title": "카카오 문화"
+        },
+        {
+          "url": "https://www.kakaocorp.com/page/service/service/KakaoCloud",
+          "domain": "www.kakaocorp.com",
+          "title": "카카오 클라우드"
+        },
+        {
+          "url": "https://www.kakaocorp.com/page/collection",
+          "domain": "www.kakaocorp.com",
+          "title": "카카오 소식 모아보기"
+        }
+      ]
+    },
+    {
+      "company": "오리온\thttp://www.orionworld.com",
+      "searchQuery": "오리온\thttp://www.orionworld.com 채용",
+      "timestamp": "2025-12-17T06:02:45.933Z",
+      "resultCount": 10,
+      "mainPlatform": "마이다스인",
+      "platformScore": 80,
+      "platformDetails": [
+        {
+          "name": "마이다스인",
+          "weight": 80,
+          "count": 2,
+          "score": 80,
+          "bestRank": 1,
+          "domains": [
+            "orion.recruiter.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://orion.recruiter.co.kr/career/home",
+          "domain": "orion.recruiter.co.kr",
+          "title": "오리온 채용 | 채용사이트"
+        },
+        {
+          "url": "http://recruitsales.orionworld.com/",
+          "domain": "recruitsales.orionworld.com",
+          "title": "오리온 영업사원 채용안내 사이트"
+        },
+        {
+          "url": "https://www.orionworld.com/board/view/87?boardno=1370",
+          "domain": "www.orionworld.com",
+          "title": "오리온, 2025년 하반기 신입사원 채용"
+        },
+        {
+          "url": "http://recruitsales.orionworld.com/apply/applyList.jsp",
+          "domain": "recruitsales.orionworld.com",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://orion.recruiter.co.kr/career/career",
+          "domain": "orion.recruiter.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.orionworld.com/board/view/87?boardno=1308",
+          "domain": "www.orionworld.com",
+          "title": "오리온, 2024년 하반기 채용 연계형 인턴십 모집"
+        },
+        {
+          "url": "https://m.incruit.com/jobdb_info/jobpost.asp?job=2509290000187&swmode=good&ct=13&ty=1&cd=80&startno=17",
+          "domain": "m.incruit.com",
+          "title": "2025년 하반기 (주)오리온 신입사원 채용"
+        },
+        {
+          "url": "http://recruitsales.orionworld.com/apply/applyView.jsp?NO=27&currtPg=1&srchRectFlg=&srchRectGbn=&srchStatus=",
+          "domain": "recruitsales.orionworld.com",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.oriongroup.co.kr/board/view/87?boardno=1359",
+          "domain": "www.oriongroup.co.kr",
+          "title": "오리온, 2025년 하반기 신입사원 채용"
+        },
+        {
+          "url": "https://www.orionworld.com/invest/finance/86",
+          "domain": "www.orionworld.com",
+          "title": "공고"
+        }
+      ]
+    },
+    {
+      "company": "미원에스씨\thttp://www.miramer.co.kr",
+      "searchQuery": "미원에스씨\thttp://www.miramer.co.kr 채용",
+      "timestamp": "2025-12-17T06:03:00.082Z",
+      "resultCount": 10,
+      "mainPlatform": "공고없음",
+      "platformScore": 0,
+      "platformDetails": [
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 10,
+          "domains": [
+            "miwonsc.com",
+            "recruit.mwc.co.kr",
+            "www.ksiec.or.kr",
+            "www.mwc.co.kr",
+            "www.catch.co.kr"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "https://miwonsc.com/kor/Careers/job.html",
+          "domain": "miwonsc.com",
+          "title": "미원스페셜티케미칼(주)"
+        },
+        {
+          "url": "https://recruit.mwc.co.kr/",
+          "domain": "recruit.mwc.co.kr",
+          "title": "미원상사 및 관계사 채용사이트"
+        },
+        {
+          "url": "https://miwonsc.com/kor/Careers/Human.html",
+          "domain": "miwonsc.com",
+          "title": "미원스페셜티케미칼(주)"
+        },
+        {
+          "url": "https://www.ksiec.or.kr/new_site/board/incruit.html?act=read&aid=4554&page=31&sc=&keyword=",
+          "domain": "www.ksiec.or.kr",
+          "title": "미원상사(주) & 관계사 직원모집(접수기간 12/1~12/7)"
+        },
+        {
+          "url": "https://www.mwc.co.kr/kor/Careers/sub2.php",
+          "domain": "www.mwc.co.kr",
+          "title": "인재채용"
+        },
+        {
+          "url": "https://www.catch.co.kr/Comp/RecruitInfo/IQ1713",
+          "domain": "www.catch.co.kr",
+          "title": "미원스페셜티케미칼 2025년 채용정보"
+        },
+        {
+          "url": "https://miwonsc.com/kor/",
+          "domain": "miwonsc.com",
+          "title": "미원스페셜티케미칼(주)"
+        },
+        {
+          "url": "https://miwonsc.com/kor/Products/Monomer_1.html",
+          "domain": "miwonsc.com",
+          "title": "Monomer"
+        },
+        {
+          "url": "https://miwonsc.com/kor/Products/Oligomer_1.html?",
+          "domain": "miwonsc.com",
+          "title": "Oligomer"
+        },
+        {
+          "url": "https://miwonsc.com/kor/Company/locations.html?",
+          "domain": "miwonsc.com",
+          "title": "기업정보"
+        }
+      ]
+    },
+    {
+      "company": "경동도시가스\thttp://www.kdgas.co.kr",
+      "searchQuery": "경동도시가스\thttp://www.kdgas.co.kr 채용",
+      "timestamp": "2025-12-17T06:03:08.252Z",
+      "resultCount": 10,
+      "mainPlatform": "로켓펀치",
+      "platformScore": 30.000000000000004,
+      "platformDetails": [
+        {
+          "name": "로켓펀치",
+          "weight": 50,
+          "bestRank": 5,
+          "count": 1,
+          "domains": [
+            "www.rocketpunch.com"
+          ],
+          "isDedicated": false,
+          "score": 30.000000000000004
+        },
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 9,
+          "domains": [
+            "www.kdgas.co.kr",
+            "www.incruit.com",
+            "job.pusan.ac.kr",
+            "motor.dit.ac.kr",
+            "www.jobplanet.co.kr",
+            "career.rememberapp.co.kr",
+            "grandict.re.kr",
+            "blog.naver.com",
+            "cba.ulsan.ac.kr"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "http://www.kdgas.co.kr/AHOME/company/employ_info.php",
+          "domain": "www.kdgas.co.kr",
+          "title": "http://www.kdgas.co.kr/AHOME/company/employ_info.php"
+        },
+        {
+          "url": "https://www.incruit.com/company/360841/",
+          "domain": "www.incruit.com",
+          "title": "2025년 경동도시가스 채용 기업정보"
+        },
+        {
+          "url": "https://job.pusan.ac.kr/attachment/download/1440797/%28%EC%A3%BC%29%EA%B2%BD%EB%8F%99%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4+2024%EB%85%84+%ED%95%98%EB%B0%98%EA%B8%B0+%EA%B4%80%EB%A6%AC%EC%A7%81%EA%B5%B0+%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90+%EC%B1%84%EC%9A%A9+%EA%B3%B5%EA%B3%A0.pdf",
+          "domain": "job.pusan.ac.kr",
+          "title": "㈜경동도시가스 2024년 하반기 신입사원 채용"
+        },
+        {
+          "url": "https://motor.dit.ac.kr/motor/?pCode=MN7000053&pg=5&mode=view&idx=1894",
+          "domain": "motor.dit.ac.kr",
+          "title": "취업정보 - (주)경동도시가스 채용 공고 | 전기자동차과"
+        },
+        {
+          "url": "https://www.rocketpunch.com/companies/kyungdong-city-gas",
+          "domain": "www.rocketpunch.com",
+          "title": "경동도시가스(kyungdong-city-gas) | 채용, 회사소개, 연봉, ..."
+        },
+        {
+          "url": "https://www.jobplanet.co.kr/companies/85732/landing/%EA%B2%BD%EB%8F%99%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4",
+          "domain": "www.jobplanet.co.kr",
+          "title": "경동도시가스(주) 2025년 기업정보"
+        },
+        {
+          "url": "https://career.rememberapp.co.kr/job/company/1407416",
+          "domain": "career.rememberapp.co.kr",
+          "title": "(주)경동도시가스 기업정보 ㅣ 채용공고, 연봉, 직원수 - 리멤버"
+        },
+        {
+          "url": "http://grandict.re.kr/cse/14667/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY3NlJTJGMjYxNiUyRjE3NDczNzclMkZhcnRjbFZpZXcuZG8lM0Y%3D",
+          "domain": "grandict.re.kr",
+          "title": "[채용] (주)경동도시가스 추천채용 안내(~11.17. 11시까지)"
+        },
+        {
+          "url": "https://blog.naver.com/ybm104/223834721962",
+          "domain": "blog.naver.com",
+          "title": "2022년 11월 1주차 채용-하나카드,서울관광재단, 경동도시 ..."
+        },
+        {
+          "url": "https://cba.ulsan.ac.kr/cba/4146?action=view&no=243315",
+          "domain": "cba.ulsan.ac.kr",
+          "title": "(주)경동도시가스 추천채용안내 (기한연장) 관리자 2023- ..."
+        }
+      ]
+    },
+    {
+      "company": "넷마블\thttp://company.netmarble.com",
+      "searchQuery": "넷마블\thttp://company.netmarble.com 채용",
+      "timestamp": "2025-12-17T06:03:20.949Z",
+      "resultCount": 10,
+      "mainPlatform": "공고없음",
+      "platformScore": 0,
+      "platformDetails": [
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 10,
+          "domains": [
+            "career.netmarble.com"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "https://career.netmarble.com/",
+          "domain": "career.netmarble.com",
+          "title": "넷마블컴퍼니 채용 - Netmarble"
+        },
+        {
+          "url": "https://career.netmarble.com/announce",
+          "domain": "career.netmarble.com",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://career.netmarble.com/mypage/my-info",
+          "domain": "career.netmarble.com",
+          "title": "마이페이지"
+        },
+        {
+          "url": "https://career.netmarble.com/guide/process",
+          "domain": "career.netmarble.com",
+          "title": "지원안내"
+        },
+        {
+          "url": "https://career.netmarble.com/inside/view",
+          "domain": "career.netmarble.com",
+          "title": "넷마블인SIDE"
+        },
+        {
+          "url": "https://career.netmarble.com/inside/work",
+          "domain": "career.netmarble.com",
+          "title": "netmarble Careers - 넷마블컴퍼니 채용"
+        },
+        {
+          "url": "https://career.netmarble.com/announce/view?anno_id=1699",
+          "domain": "career.netmarble.com",
+          "title": "정보보호 정책담당자 모집 - 넷마블컴퍼니 채용"
+        },
+        {
+          "url": "https://career.netmarble.com/announce/view?anno_id=1721",
+          "domain": "career.netmarble.com",
+          "title": "2026 상. 넷마블 채용전환형 인턴십"
+        },
+        {
+          "url": "https://career.netmarble.com/announce/view?anno_id=1681",
+          "domain": "career.netmarble.com",
+          "title": "넷마블컴퍼니 채용 - Netmarble"
+        },
+        {
+          "url": "https://career.netmarble.com/announce/view?anno_id=1561",
+          "domain": "career.netmarble.com",
+          "title": "퍼블리싱 QA 담당자 모집 - 넷마블컴퍼니 채용 - Netmarble"
+        }
+      ]
+    },
+    {
+      "company": "HD현대\thttp://www.hd.com",
+      "searchQuery": "HD현대\thttp://www.hd.com 채용",
+      "timestamp": "2025-12-17T06:03:29.372Z",
+      "resultCount": 10,
+      "mainPlatform": "그룹채용",
+      "platformScore": 95,
+      "platformDetails": [
+        {
+          "name": "그룹채용",
+          "weight": 95,
+          "count": 5,
+          "score": 95,
+          "bestRank": 1,
+          "domains": [
+            "recruit.hd.com"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://recruit.hd.com/",
+          "domain": "recruit.hd.com",
+          "title": "HD현대 채용"
+        },
+        {
+          "url": "https://recruit.hd.com/kr/mainLayout/apply",
+          "domain": "recruit.hd.com",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://recruit.hd.com/kr/mainLayout/applyDetail/213470",
+          "domain": "recruit.hd.com",
+          "title": "HD현대 채용공고"
+        },
+        {
+          "url": "https://www.hd.com/kr/main",
+          "domain": "www.hd.com",
+          "title": "HD현대"
+        },
+        {
+          "url": "https://www.hd.com/kr/business/introduction/contents/contents",
+          "domain": "www.hd.com",
+          "title": "사업 소개"
+        },
+        {
+          "url": "https://www.hd.com/kr/brand-story/company-overview/contents",
+          "domain": "www.hd.com",
+          "title": "기업 개요"
+        },
+        {
+          "url": "https://www.hd-infracore.com/kr/career/apply",
+          "domain": "www.hd-infracore.com",
+          "title": "채용전형 안내 : HD현대인프라코어"
+        },
+        {
+          "url": "https://recruit.hd.com/kr/mainLayout/interview",
+          "domain": "recruit.hd.com",
+          "title": "직무 인터뷰"
+        },
+        {
+          "url": "https://recruit.hd.com/kr/mainLayout/applyDetail/2282",
+          "domain": "recruit.hd.com",
+          "title": "HD현대 채용 메인 페이지"
+        },
+        {
+          "url": "https://hd.recruiter.co.kr/career/home",
+          "domain": "hd.recruiter.co.kr",
+          "title": "HD현대 채용 | 채용사이트"
+        }
+      ]
+    },
+    {
+      "company": "HD현대건설기계\thttp://www.hd-hyundaice.com",
+      "searchQuery": "HD현대건설기계\thttp://www.hd-hyundaice.com 채용",
+      "timestamp": "2025-12-17T06:03:41.108Z",
+      "resultCount": 10,
+      "mainPlatform": "그룹채용",
+      "platformScore": 95,
+      "platformDetails": [
+        {
+          "name": "그룹채용",
+          "weight": 95,
+          "count": 2,
+          "score": 95,
+          "bestRank": 2,
+          "domains": [
+            "recruit.hd.com"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.hd-hyundaice.com/ko/career/interview/recruitment-info/contents",
+          "domain": "www.hd-hyundaice.com",
+          "title": "채용정보 | HD현대건설기계"
+        },
+        {
+          "url": "https://recruit.hd.com/",
+          "domain": "recruit.hd.com",
+          "title": "HD현대 채용"
+        },
+        {
+          "url": "https://www.hd-hyundaice.com/ko",
+          "domain": "www.hd-hyundaice.com",
+          "title": "HD현대건설기계"
+        },
+        {
+          "url": "https://www.hd-hyundaice.com/ko/products/EC/list",
+          "domain": "www.hd-hyundaice.com",
+          "title": "굴착기"
+        },
+        {
+          "url": "https://www.hd-hyundaice.com/ko/center/domestic/contents",
+          "domain": "www.hd-hyundaice.com",
+          "title": "국내센터"
+        },
+        {
+          "url": "https://www.hd-hyundaice.com/ko/com/overview/contents",
+          "domain": "www.hd-hyundaice.com",
+          "title": "개요"
+        },
+        {
+          "url": "https://www.hd-hyundaice.com/ko/career/introduction/contents",
+          "domain": "www.hd-hyundaice.com",
+          "title": "직무소개 | HD현대건설기계"
+        },
+        {
+          "url": "https://recruit.hd.com/kr/mainLayout/apply",
+          "domain": "recruit.hd.com",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2403040004219",
+          "domain": "job.incruit.com",
+          "title": "HD현대건설기계 채용 : 24년 상반기 건설기계 3사 신입사원 ..."
+        },
+        {
+          "url": "https://www.hd-hyundaice.com/ko/media/newsletter/view?detailsKey=1025",
+          "domain": "www.hd-hyundaice.com",
+          "title": "HD현대건설기계"
+        }
+      ]
+    },
+    {
+      "company": "HD현대일렉트릭\thttp://www.hd-hyundaielectric.com",
+      "searchQuery": "HD현대일렉트릭\thttp://www.hd-hyundaielectric.com 채용",
+      "timestamp": "2025-12-17T06:03:54.068Z",
+      "resultCount": 10,
+      "mainPlatform": "그룹채용",
+      "platformScore": 95,
+      "platformDetails": [
+        {
+          "name": "그룹채용",
+          "weight": 95,
+          "count": 1,
+          "score": 95,
+          "bestRank": 2,
+          "domains": [
+            "recruit.hd.com"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.hd-hyundaielectric.com/elect/ko/recruit/talent.jsp",
+          "domain": "www.hd-hyundaielectric.com",
+          "title": "채용 정보 - HD현대일렉트릭"
+        },
+        {
+          "url": "https://recruit.hd.com/",
+          "domain": "recruit.hd.com",
+          "title": "HD현대 채용"
+        },
+        {
+          "url": "https://credia.hyundai-electric.com/elect/m/ko/recruit/talent.jsp",
+          "domain": "credia.hyundai-electric.com",
+          "title": "채용 정보 - HD현대일렉트릭"
+        },
+        {
+          "url": "https://www.hd-hyundaielectric.com/elect/ko/index.jsp",
+          "domain": "www.hd-hyundaielectric.com",
+          "title": "HD현대일렉트릭"
+        },
+        {
+          "url": "https://www.hd-hyundaielectric.com/elect/m/ko/product/product1.jsp",
+          "domain": "www.hd-hyundaielectric.com",
+          "title": "초고압 변압기"
+        },
+        {
+          "url": "https://www.hd-hyundaielectric.com/elect/m/ko/product/product8.jsp",
+          "domain": "www.hd-hyundaielectric.com",
+          "title": "중저압차단기"
+        },
+        {
+          "url": "https://www.hd-hyundaielectric.com/elect/m/ko/company/ceo.jsp",
+          "domain": "www.hd-hyundaielectric.com",
+          "title": "CEO 인사말"
+        },
+        {
+          "url": "https://www.hd-hyundaielectric.com/elect/ko/IR/IRdata1.jsp",
+          "domain": "www.hd-hyundaielectric.com",
+          "title": "IR 자료"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/recruit/co_read/c/c-037078",
+          "domain": "www.jobkorea.co.kr",
+          "title": "에이치디현대일렉트릭 2025년 기업정보 - 직원수, 근무환경, ..."
+        },
+        {
+          "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2501240000147",
+          "domain": "job.incruit.com",
+          "title": "[HD현대일렉트릭] 2025년 상반기 경력사원 채용"
+        }
+      ]
+    },
+    {
+      "company": "크라운제과\thttp://www.crown.co.kr",
+      "searchQuery": "크라운제과\thttp://www.crown.co.kr 채용",
+      "timestamp": "2025-12-17T06:04:03.305Z",
+      "resultCount": 10,
+      "mainPlatform": "자체",
+      "platformScore": 90,
+      "platformDetails": [
+        {
+          "name": "자체",
+          "weight": 90,
+          "count": 3,
+          "score": 90,
+          "bestRank": 1,
+          "domains": [
+            "www.crown.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.crown.co.kr/recruit/notice",
+          "domain": "www.crown.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.crown.co.kr/recruit/view",
+          "domain": "www.crown.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.crown.co.kr/recruit/step",
+          "domain": "www.crown.co.kr",
+          "title": "채용 프로세스"
+        },
+        {
+          "url": "https://www.crown.co.kr/recruit/application",
+          "domain": "www.crown.co.kr",
+          "title": "입사지원"
+        },
+        {
+          "url": "https://www.crown.co.kr/",
+          "domain": "www.crown.co.kr",
+          "title": "크라운제과"
+        },
+        {
+          "url": "https://www.crown.co.kr/product/index",
+          "domain": "www.crown.co.kr",
+          "title": "제품 소개"
+        },
+        {
+          "url": "https://www.crown.co.kr/sns/sns",
+          "domain": "www.crown.co.kr",
+          "title": "Crown sns"
+        },
+        {
+          "url": "https://www.crown.co.kr/recruit/faq",
+          "domain": "www.crown.co.kr",
+          "title": "채용 FAQ"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/47892797",
+          "domain": "www.jobkorea.co.kr",
+          "title": "(주)크라운제과 고객상담실 상담원 사원모집"
+        },
+        {
+          "url": "https://www.crown.co.kr/recruit/view.asp?EMP_NO=00651",
+          "domain": "www.crown.co.kr",
+          "title": "채용공고"
+        }
+      ]
+    },
+    {
+      "company": "덴티움\thttp://www.dentium.co.kr",
+      "searchQuery": "덴티움\thttp://www.dentium.co.kr 채용",
+      "timestamp": "2025-12-17T06:04:16.285Z",
+      "resultCount": 10,
+      "mainPlatform": "그리팅",
+      "platformScore": 80,
+      "platformDetails": [
+        {
+          "name": "그리팅",
+          "weight": 80,
+          "count": 2,
+          "score": 80,
+          "bestRank": 1,
+          "domains": [
+            "dentium.career.greetinghr.com"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://dentium.career.greetinghr.com/ko/home",
+          "domain": "dentium.career.greetinghr.com",
+          "title": "덴티움 채용"
+        },
+        {
+          "url": "https://www.dentium.co.kr/m/recruit/list.php",
+          "domain": "www.dentium.co.kr",
+          "title": "인재채용 바로가기"
+        },
+        {
+          "url": "https://www.dentium.co.kr/recruit/recruit01.php",
+          "domain": "www.dentium.co.kr",
+          "title": "덴티움채용"
+        },
+        {
+          "url": "https://dentium.career.greetinghr.com/ko/openposition",
+          "domain": "dentium.career.greetinghr.com",
+          "title": "채용 공고 리스트"
+        },
+        {
+          "url": "https://www.dentium.co.kr/m/recruit/recruit01.php",
+          "domain": "www.dentium.co.kr",
+          "title": "인재채용"
+        },
+        {
+          "url": "https://www.incruit.com/company/9936190/",
+          "domain": "www.incruit.com",
+          "title": "2025년 덴티움 채용 기업정보"
+        },
+        {
+          "url": "https://www.dentium.co.kr/",
+          "domain": "www.dentium.co.kr",
+          "title": "덴티움 For Dentists By Dentists"
+        },
+        {
+          "url": "https://www.dentium.co.kr/m/digitalcenter/index_dc.php",
+          "domain": "www.dentium.co.kr",
+          "title": "Digital Center"
+        },
+        {
+          "url": "https://www.dentium.co.kr/m/digitalcenter/dc01_04_01.php",
+          "domain": "www.dentium.co.kr",
+          "title": "제품소개"
+        },
+        {
+          "url": "https://www.dentium.co.kr/m/ifu/ifu01_05.php",
+          "domain": "www.dentium.co.kr",
+          "title": "Catalog"
+        }
+      ]
+    },
+    {
+      "company": "핸즈코퍼레이션\thttp://www.handscorp.co.kr",
+      "searchQuery": "핸즈코퍼레이션\thttp://www.handscorp.co.kr 채용",
+      "timestamp": "2025-12-17T06:04:27.165Z",
+      "resultCount": 10,
+      "mainPlatform": "자체",
+      "platformScore": 90,
+      "platformDetails": [
+        {
+          "name": "자체",
+          "weight": 90,
+          "count": 2,
+          "score": 90,
+          "bestRank": 1,
+          "domains": [
+            "www.handscorp.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.handscorp.co.kr/assets/page/recruit/job-bulletin.asp",
+          "domain": "www.handscorp.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.handscorp.co.kr/mobile/assets/page/recruit/job-bulletin.asp",
+          "domain": "www.handscorp.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.handscorp.co.kr/assets/page/recruit/job-application.asp",
+          "domain": "www.handscorp.co.kr",
+          "title": "온라인 입사지원"
+        },
+        {
+          "url": "https://m.incruit.com/jobdb_info/jobpost.asp?job=2511260000928",
+          "domain": "m.incruit.com",
+          "title": "핸즈코퍼레이션 - HANDS GROUP 2025년 수시채용 공고"
+        },
+        {
+          "url": "https://www.handscorp.co.kr/eng/assets/page/recruit/job-employment.asp",
+          "domain": "www.handscorp.co.kr",
+          "title": "HANDS Corporation"
+        },
+        {
+          "url": "https://www.handscorp.co.kr/assets/page/recruit/job-employment.asp",
+          "domain": "www.handscorp.co.kr",
+          "title": "채용절차"
+        },
+        {
+          "url": "https://www.handscorp.co.kr/",
+          "domain": "www.handscorp.co.kr",
+          "title": "핸즈코퍼레이션"
+        },
+        {
+          "url": "https://www.handscorp.co.kr/mobile/assets/page/company/plants-hands-6.asp",
+          "domain": "www.handscorp.co.kr",
+          "title": "Hands 6"
+        },
+        {
+          "url": "https://www.handscorp.co.kr/mobile/assets/page/company/philosophy-environment-policy.asp",
+          "domain": "www.handscorp.co.kr",
+          "title": "환경경영"
+        },
+        {
+          "url": "https://www.handscorp.co.kr/mobile/assets/page/company/philosophy-safety-policy.asp",
+          "domain": "www.handscorp.co.kr",
+          "title": "안전경영"
+        }
+      ]
+    },
+    {
+      "company": "두산밥캣\thttp://www.doosanbobcat.com",
+      "searchQuery": "두산밥캣\thttp://www.doosanbobcat.com 채용",
+      "timestamp": "2025-12-17T06:04:39.315Z",
+      "resultCount": 10,
+      "mainPlatform": "그룹채용",
+      "platformScore": 95,
+      "platformDetails": [
+        {
+          "name": "그룹채용",
+          "weight": 95,
+          "count": 1,
+          "score": 95,
+          "bestRank": 1,
+          "domains": [
+            "career.doosan.com"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://career.doosan.com/dsp/sa/RecList.jsp",
+          "domain": "career.doosan.com",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.doosanbobcat.com/kr",
+          "domain": "www.doosanbobcat.com",
+          "title": "두산밥캣"
+        },
+        {
+          "url": "https://www.doosanbobcat.com/kr/about/ceo",
+          "domain": "www.doosanbobcat.com",
+          "title": "CEO 메시지"
+        },
+        {
+          "url": "https://www.doosanbobcat.com/kr/products/compact/list",
+          "domain": "www.doosanbobcat.com",
+          "title": "전체 보기 : 소형장비 : 제품"
+        },
+        {
+          "url": "https://www.doosanbobcat.com/kr/investment/irData",
+          "domain": "www.doosanbobcat.com",
+          "title": "IR자료실"
+        },
+        {
+          "url": "https://www.doosanbobcat.com/kr/products/industrial/list",
+          "domain": "www.doosanbobcat.com",
+          "title": "산업차량"
+        },
+        {
+          "url": "https://jobs.doosan.com/go/CSB_Jobs-%40-Doosan-Bobcat-ko_KR/7866300/",
+          "domain": "jobs.doosan.com",
+          "title": "Jobs @ Doosan Bobcat"
+        },
+        {
+          "url": "https://doosanglobaltalent-recruit.com/",
+          "domain": "doosanglobaltalent-recruit.com",
+          "title": "2025 두산그룹 Global Talent 채용"
+        },
+        {
+          "url": "https://kace.dsso.kr:53542/bbs/board.php?bo_table=sub5_5&wr_id=281",
+          "domain": "kace.dsso.kr",
+          "title": "[두산밥캣] 2024 두산밥캣 신입 공개 채용 (~4.8 월) > 취업공고"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/company/16153786/recruit",
+          "domain": "www.jobkorea.co.kr",
+          "title": "두산밥캣(주) 채용 - 2025년 진행 중인 공고 총 1건"
+        }
+      ]
+    },
+    {
+      "company": "삼성바이오로직스\thttp://www.samsungbiologics.com",
+      "searchQuery": "삼성바이오로직스\thttp://www.samsungbiologics.com 채용",
+      "timestamp": "2025-12-17T06:04:49.760Z",
+      "resultCount": 10,
+      "mainPlatform": "그룹채용",
+      "platformScore": 95,
+      "platformDetails": [
+        {
+          "name": "그룹채용",
+          "weight": 95,
+          "count": 1,
+          "score": 95,
+          "bestRank": 6,
+          "domains": [
+            "www.samsungcareers.com"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://samsungbiologics.com/kr/careers/apply/how-to-apply",
+          "domain": "samsungbiologics.com",
+          "title": "채용절차 | 삼성바이오로직스"
+        },
+        {
+          "url": "https://samsungbiologics.com/kr/careers/apply/u-level",
+          "domain": "samsungbiologics.com",
+          "title": "대졸 신입"
+        },
+        {
+          "url": "https://samsungbiologics.com/kr/careers/apply/local",
+          "domain": "samsungbiologics.com",
+          "title": "국내경력직"
+        },
+        {
+          "url": "https://samsungbiologics.com/kr/careers/apply/c-level",
+          "domain": "samsungbiologics.com",
+          "title": "석박사 신입"
+        },
+        {
+          "url": "https://samsungbiologics.com/kr/careers/recruitment-support/step1",
+          "domain": "samsungbiologics.com",
+          "title": "채용지원"
+        },
+        {
+          "url": "https://www.samsungcareers.com/subsid/detail/DA0",
+          "domain": "www.samsungcareers.com",
+          "title": "삼성바이오로직스"
+        },
+        {
+          "url": "https://samsungbiologics.com/kr/careers/recruitment-support/step2",
+          "domain": "samsungbiologics.com",
+          "title": "삼성바이오로직스 대표 홈페이지"
+        },
+        {
+          "url": "https://samsungbiologics.com/kr",
+          "domain": "samsungbiologics.com",
+          "title": "삼성바이오로직스 대표 홈페이지 - Leading End-to- ..."
+        },
+        {
+          "url": "https://samsungbiologics.com/kr/careers/value",
+          "domain": "samsungbiologics.com",
+          "title": "인재상 | 삼성바이오로직스"
+        },
+        {
+          "url": "https://samsungbiologics.com/front/kr/careers/talentPool.do",
+          "domain": "samsungbiologics.com",
+          "title": "삼성바이오로직스 대표 홈페이지 - Leading End-to- ..."
+        }
+      ]
+    },
+    {
+      "company": "JW생명과학\thttp://www.jw-lifescience.co.kr",
+      "searchQuery": "JW생명과학\thttp://www.jw-lifescience.co.kr 채용",
+      "timestamp": "2025-12-17T06:05:01.263Z",
+      "resultCount": 10,
+      "mainPlatform": "마이다스인",
+      "platformScore": 80,
+      "platformDetails": [
+        {
+          "name": "마이다스인",
+          "weight": 80,
+          "count": 1,
+          "score": 80,
+          "bestRank": 1,
+          "domains": [
+            "jwholdings.recruiter.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://jwholdings.recruiter.co.kr/app/jobnotice/list",
+          "domain": "jwholdings.recruiter.co.kr",
+          "title": "채용공고 | 채용정보 | 제이더블유홀딩스 - JW 인재채용"
+        },
+        {
+          "url": "https://www.jw-lifescience.co.kr/",
+          "domain": "www.jw-lifescience.co.kr",
+          "title": "JW생명과학"
+        },
+        {
+          "url": "https://www.jw-lifescience.co.kr/lifescience/ko/intro/mission.jsp",
+          "domain": "www.jw-lifescience.co.kr",
+          "title": "JW Promise"
+        },
+        {
+          "url": "https://www.jw-lifescience.co.kr/lifescience/ko/intro/jw_way.jsp",
+          "domain": "www.jw-lifescience.co.kr",
+          "title": "JW WAY"
+        },
+        {
+          "url": "https://www.jw-lifescience.co.kr/lifescience/ko/product/permit_list.jsp",
+          "domain": "www.jw-lifescience.co.kr",
+          "title": "제품소식"
+        },
+        {
+          "url": "https://www.jw-lifescience.co.kr/lifescience/ko/intro/lifescience.jsp",
+          "domain": "www.jw-lifescience.co.kr",
+          "title": "회사소개"
+        },
+        {
+          "url": "https://www.incruit.com/company/2203076/",
+          "domain": "www.incruit.com",
+          "title": "2025년 제이더블유생명과학 채용 기업정보"
+        },
+        {
+          "url": "https://linkareer.com/activity/278562",
+          "domain": "linkareer.com",
+          "title": "[JW생명과학] 생산부문 채용 | 공모전 대외활동"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/company/1506813/recruit",
+          "domain": "www.jobkorea.co.kr",
+          "title": "JW생명과학(주) 채용 - 2025년 진행 중인 공고 확인하기"
+        },
+        {
+          "url": "https://www.sejong.go.kr/prog/fastRecruitment/job/sub01_03/view.do?empSeqno=144942",
+          "domain": "www.sejong.go.kr",
+          "title": "고용24 공채속보 > 일자리찾기 >"
+        }
+      ]
+    },
+    {
+      "company": "LS에코에너지\thttp://www.lsecoenergy.com",
+      "searchQuery": "LS에코에너지\thttp://www.lsecoenergy.com 채용",
+      "timestamp": "2025-12-17T06:05:12.982Z",
+      "resultCount": 10,
+      "mainPlatform": "마이다스인",
+      "platformScore": 80,
+      "platformDetails": [
+        {
+          "name": "마이다스인",
+          "weight": 80,
+          "count": 1,
+          "score": 80,
+          "bestRank": 6,
+          "domains": [
+            "lselectric.recruiter.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.catch.co.kr/comp/CompSummary/HD5933",
+          "domain": "www.catch.co.kr",
+          "title": "LS에코에너지 2025년 기업정보 - 주요사업·최신연봉"
+        },
+        {
+          "url": "https://www.lsholdings.com/ko/careers/recruitment-guide",
+          "domain": "www.lsholdings.com",
+          "title": "채용안내"
+        },
+        {
+          "url": "https://deepsearch.com/analytics/company-analysis/KRX%3A229640?c-symbol=KRX%3A229640",
+          "domain": "deepsearch.com",
+          "title": "LS에코에너지(KRX:229640) | 기업정보, 재무제표, 최신 뉴스 분석"
+        },
+        {
+          "url": "https://www.ls-electric.com/ko/recruit/",
+          "domain": "www.ls-electric.com",
+          "title": "인재채용"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/company/1563147/recruit",
+          "domain": "www.jobkorea.co.kr",
+          "title": "엘에스 채용 - 2025년 진행 중인 공고 확인하기"
+        },
+        {
+          "url": "https://lselectric.recruiter.co.kr/app/jobnotice/list",
+          "domain": "lselectric.recruiter.co.kr",
+          "title": "채용공고 | 채용정보 | LS ELECTRIC"
+        },
+        {
+          "url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/SnprYlM2cjd1QTFJdmtjeXdBWTNzQT09/company_nm/%EC%97%98%EC%97%90%EC%8A%A4%EC%97%90%EC%BD%94%EC%97%90%EB%84%88%EC%A7%80(%EC%A3%BC)?srsltid=AfmBOopsnV2KwRzysHVtqkGVfkdPsh39EBWjtnB-CFnXtAD_7Vp_oUuw",
+          "domain": "www.saramin.co.kr",
+          "title": "https://www.saramin.co.kr/zf_user/company-info/vie..."
+        },
+        {
+          "url": "http://ecoenergy.re.kr/sub/sub04_02.php",
+          "domain": "ecoenergy.re.kr",
+          "title": "Q&A - 채용정보"
+        },
+        {
+          "url": "https://www.catch.co.kr/Comp/InterviewReview/HD5933",
+          "domain": "www.catch.co.kr",
+          "title": "LS에코에너지 면접후기"
+        },
+        {
+          "url": "https://www.tossinvest.com/stocks/A229640/order",
+          "domain": "www.tossinvest.com",
+          "title": "LS에코에너지(229640)의 실시간 주가를 확인해보세요"
+        }
+      ]
+    },
+    {
+      "company": "스타에스엠리츠\thttp://www.starreit.co.kr",
+      "searchQuery": "스타에스엠리츠\thttp://www.starreit.co.kr 채용",
+      "timestamp": "2025-12-17T06:05:25.119Z",
+      "resultCount": 10,
+      "mainPlatform": "잡코리아",
+      "platformScore": 40,
+      "platformDetails": [
+        {
+          "name": "잡코리아",
+          "weight": 40,
+          "bestRank": 1,
+          "count": 7,
+          "domains": [
+            "www.jobkorea.co.kr",
+            "m.jobkorea.co.kr"
+          ],
+          "isDedicated": false,
+          "score": 40
+        },
+        {
+          "name": "사람인",
+          "weight": 35,
+          "bestRank": 3,
+          "count": 2,
+          "domains": [
+            "www.saramin.co.kr"
+          ],
+          "isDedicated": false,
+          "score": 28
+        },
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 2,
+          "count": 1,
+          "domains": [
+            "starsmreit.co.kr"
+          ],
+          "isDedicated": false,
+          "score": 9.000000000000002
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.jobkorea.co.kr/recruit/co_read/recruit/c/31282888",
+          "domain": "www.jobkorea.co.kr",
+          "title": "스타에스엠자기관리부동산투자회사 채용"
+        },
+        {
+          "url": "http://starsmreit.co.kr/",
+          "domain": "starsmreit.co.kr",
+          "title": "스타에스엠리츠"
+        },
+        {
+          "url": "https://www.saramin.co.kr/zf_user/company-info/view/csn/ZDRWVWVYYWpGM3h4a2tHbHFiL204UT09/company_nm/(%EC%A3%BC)%EB%AA%A8%EB%91%90%ED%88%AC%EC%96%B4%EC%9E%90%EA%B8%B0%EA%B4%80%EB%A6%AC%EB%B6%80%EB%8F%99%EC%82%B0%ED%88%AC%EC%9E%90%ED%9A%8C%EC%82%AC?srsltid=AfmBOopOckplbygJwCJTES1YMDaaAtLkPsUCQykx0C80e4-hGZ6gG3hS",
+          "domain": "www.saramin.co.kr",
+          "title": "(주)스타에스엠자기관리부동산투자회사 2025년 기업정보"
+        },
+        {
+          "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=52327954&srsltid=AfmBOoqP6mzKWMY3T-kkChOLSLy9TgoSuPNnyy0pU1raVt7WVsslH6NW",
+          "domain": "www.saramin.co.kr",
+          "title": "경영관리본부 인사·총무 경력 직원 채용"
+        },
+        {
+          "url": "https://m.jobkorea.co.kr/recruit/gi_read/46932886",
+          "domain": "m.jobkorea.co.kr",
+          "title": "(주)스타에스엠리츠 자산관리 운용 및 투자자산운용사 채용"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/46875541",
+          "domain": "www.jobkorea.co.kr",
+          "title": "(주)스타에스엠리츠 경영관리본부 인사·총무 경력 직원 채용"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/recruit/co_read/c/modereit701",
+          "domain": "www.jobkorea.co.kr",
+          "title": "스타에스엠자기관리부동산투자회사 2025년 기업정보"
+        },
+        {
+          "url": "https://m.jobkorea.co.kr/Recruit/Co_Read/Recruit/C/modereit701?Page=1&GI_Part_Code=1000201&ChkDispType=0",
+          "domain": "m.jobkorea.co.kr",
+          "title": "스타에스엠자기관리부동산투자회사 채용"
+        },
+        {
+          "url": "https://m.jobkorea.co.kr/Recruit/Co_Read/Recruit/C/modereit701?Page=1&GI_Part_Code=1000185&ChkDispType=0",
+          "domain": "m.jobkorea.co.kr",
+          "title": "스타에스엠자기관리부동산투자회사 채용"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/46592701",
+          "domain": "www.jobkorea.co.kr",
+          "title": "(주)스타에스엠리츠 경영관리본부 팀장급 채용"
+        }
+      ]
+    },
+    {
+      "company": "일동제약\thttp://www.ildong.com",
+      "searchQuery": "일동제약\thttp://www.ildong.com 채용",
+      "timestamp": "2025-12-17T06:05:35.638Z",
+      "resultCount": 10,
+      "mainPlatform": "공고없음",
+      "platformScore": 0,
+      "platformDetails": [
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 10,
+          "domains": [
+            "careers.ildong.com",
+            "www.incruit.com",
+            "linkareer.com"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "https://careers.ildong.com/apply",
+          "domain": "careers.ildong.com",
+          "title": "일동제약 - 채용 홈페이지"
+        },
+        {
+          "url": "https://careers.ildong.com/",
+          "domain": "careers.ildong.com",
+          "title": "일동제약 채용 - 채용 홈페이지"
+        },
+        {
+          "url": "https://careers.ildong.com/introduce",
+          "domain": "careers.ildong.com",
+          "title": "일동제약 - 채용 홈페이지"
+        },
+        {
+          "url": "https://careers.ildong.com/ideology",
+          "domain": "careers.ildong.com",
+          "title": "일동제약 채용 - 채용 홈페이지"
+        },
+        {
+          "url": "https://careers.ildong.com/product",
+          "domain": "careers.ildong.com",
+          "title": "일동제약 채용 - 채용 홈페이지"
+        },
+        {
+          "url": "https://careers.ildong.com/job1",
+          "domain": "careers.ildong.com",
+          "title": "일동제약그룹 - 채용 홈페이지"
+        },
+        {
+          "url": "https://careers.ildong.com/reward",
+          "domain": "careers.ildong.com",
+          "title": "일동제약 채용 - 채용 홈페이지"
+        },
+        {
+          "url": "https://www.incruit.com/company/1945132/",
+          "domain": "www.incruit.com",
+          "title": "2025년 일동제약 채용 기업정보"
+        },
+        {
+          "url": "https://careers.ildong.com/job6",
+          "domain": "careers.ildong.com",
+          "title": "일동제약그룹 - 채용 홈페이지"
+        },
+        {
+          "url": "https://linkareer.com/activity/286713",
+          "domain": "linkareer.com",
+          "title": "[일동제약] 2025년 12월 수시채용 | 공모전 대외활동"
+        }
+      ]
+    },
+    {
+      "company": "샘표식품\thttp://www.sempio.com",
+      "searchQuery": "샘표식품\thttp://www.sempio.com 채용",
+      "timestamp": "2025-12-17T06:05:44.828Z",
+      "resultCount": 10,
+      "mainPlatform": "마이다스인",
+      "platformScore": 80,
+      "platformDetails": [
+        {
+          "name": "마이다스인",
+          "weight": 80,
+          "count": 2,
+          "score": 80,
+          "bestRank": 1,
+          "domains": [
+            "sempio.recruiter.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://sempio.recruiter.co.kr/career/home",
+          "domain": "sempio.recruiter.co.kr",
+          "title": "샘표식품 채용 | 채용사이트"
+        },
+        {
+          "url": "https://sempio.recruiter.co.kr/career/jobnotice",
+          "domain": "sempio.recruiter.co.kr",
+          "title": "채용공고 - 샘표식품 채용"
+        },
+        {
+          "url": "https://www.sempio.com/search?q=%EC%B1%84%EC%9A%A9",
+          "domain": "www.sempio.com",
+          "title": "채용 - 통합검색결과"
+        },
+        {
+          "url": "https://www.sempio.com/search/detail/news?q=%EC%B1%84%EC%9A%A9",
+          "domain": "www.sempio.com",
+          "title": "샘표소식 (10건)"
+        },
+        {
+          "url": "https://nsfm.ewha.ac.kr/nsfm/community/notice.do?mode=view&articleNo=669043&title=%5B%EC%B1%84%EC%9A%A9%5D+%EC%83%98%ED%91%9C%EC%8B%9D%ED%92%88+%EC%B1%84%EC%9A%A9+%EC%A0%95%EB%B3%B4+%EA%B3%B5%EC%A7%80+%EC%95%88%EB%82%B4",
+          "domain": "nsfm.ewha.ac.kr",
+          "title": "[채용] 샘표식품 채용 정보 공지 안내"
+        },
+        {
+          "url": "https://www.incruit.com/company/2773316/",
+          "domain": "www.incruit.com",
+          "title": "2025년 샘표 채용 기업정보"
+        },
+        {
+          "url": "https://www.sempio.com/",
+          "domain": "www.sempio.com",
+          "title": "샘표식품 : 우리맛으로 세계인을 즐겁게"
+        },
+        {
+          "url": "https://www.sempio.com/about/sempio",
+          "domain": "www.sempio.com",
+          "title": "샘표 : 샘표식품"
+        },
+        {
+          "url": "https://www.sempio.com/product/jang",
+          "domain": "www.sempio.com",
+          "title": "샘표 장류"
+        },
+        {
+          "url": "https://www.sempio.com/about/history",
+          "domain": "www.sempio.com",
+          "title": "샘표 75년"
+        }
+      ]
+    },
+    {
+      "company": "동서\thttp://www.dongsuh.com",
+      "searchQuery": "동서\thttp://www.dongsuh.com 채용",
+      "timestamp": "2025-12-17T06:05:55.400Z",
+      "resultCount": 10,
+      "mainPlatform": "자체",
+      "platformScore": 90,
+      "platformDetails": [
+        {
+          "name": "자체",
+          "weight": 90,
+          "count": 1,
+          "score": 90,
+          "bestRank": 1,
+          "domains": [
+            "www.dongsuh.com"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.dongsuh.com/kor/recruit/announce.asp",
+          "domain": "www.dongsuh.com",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.dongsuh.com/",
+          "domain": "www.dongsuh.com",
+          "title": "주식회사 동서"
+        },
+        {
+          "url": "https://www.dongsuh.com/kor/company/ds_museum.asp",
+          "domain": "www.dongsuh.com",
+          "title": "동서 뮤지엄"
+        },
+        {
+          "url": "https://www.dongsuh.com/kor/company/history.asp",
+          "domain": "www.dongsuh.com",
+          "title": "동서 연혁"
+        },
+        {
+          "url": "https://www.dongsuh.com/kor/notice/notice_view.asp?idx=4",
+          "domain": "www.dongsuh.com",
+          "title": "(주)동서 홈페이지가 새롭게..."
+        },
+        {
+          "url": "https://www.dongsuh.com/kor/company/introduction.asp",
+          "domain": "www.dongsuh.com",
+          "title": "회사소개"
+        },
+        {
+          "url": "https://dsf.recruiter.co.kr/career/home",
+          "domain": "dsf.recruiter.co.kr",
+          "title": "동서식품 채용 | 채용사이트"
+        },
+        {
+          "url": "https://www.incruit.com/company/13616312/",
+          "domain": "www.incruit.com",
+          "title": "2025년 동서식품 채용 기업정보"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/Search/?stext=Dongsuh",
+          "domain": "www.jobkorea.co.kr",
+          "title": "'Dongsuh' 관련 📢 채용공고 | 총 588건의 검색결과"
+        },
+        {
+          "url": "https://www.dongsuh.com/kor/recruit/right_people.asp",
+          "domain": "www.dongsuh.com",
+          "title": "인재상"
+        }
+      ]
+    },
+    {
+      "company": "한국자산신탁\thttp://www.kait.com",
+      "searchQuery": "한국자산신탁\thttp://www.kait.com 채용",
+      "timestamp": "2025-12-17T06:06:09.259Z",
+      "resultCount": 10,
+      "mainPlatform": "자체",
+      "platformScore": 90,
+      "platformDetails": [
+        {
+          "name": "자체",
+          "weight": 90,
+          "count": 1,
+          "score": 90,
+          "bestRank": 1,
+          "domains": [
+            "www.kait.com"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.kait.com/recruit1/",
+          "domain": "www.kait.com",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.kait.com/employment/",
+          "domain": "www.kait.com",
+          "title": "채용정보"
+        },
+        {
+          "url": "https://www.kait.com/",
+          "domain": "www.kait.com",
+          "title": "한국자산신탁"
+        },
+        {
+          "url": "https://www.kait.com/company/",
+          "domain": "www.kait.com",
+          "title": "회사소개"
+        },
+        {
+          "url": "https://www.kait.com/findemp/",
+          "domain": "www.kait.com",
+          "title": "담당직원찾기"
+        },
+        {
+          "url": "https://www.kait.com/recruit4/",
+          "domain": "www.kait.com",
+          "title": "채용절차"
+        },
+        {
+          "url": "https://www.kait.com/recruit2/",
+          "domain": "www.kait.com",
+          "title": "채용절차2"
+        },
+        {
+          "url": "https://www.incruit.com/company/327591/",
+          "domain": "www.incruit.com",
+          "title": "2025년 한국자산신탁 채용 기업정보"
+        },
+        {
+          "url": "https://recruit-kait.saramin.co.kr/main/index",
+          "domain": "recruit-kait.saramin.co.kr",
+          "title": "https://recruit-kait.saramin.co.kr/main/index"
+        },
+        {
+          "url": "https://jasoseol.com/companies/2560",
+          "domain": "jasoseol.com",
+          "title": "한국자산신탁 기업정보 - 2025년 연봉, 사업, 채용, 지원자 ..."
+        }
+      ]
+    },
+    {
+      "company": "한국토지신탁\thttp://www.koreit.co.kr",
+      "searchQuery": "한국토지신탁\thttp://www.koreit.co.kr 채용",
+      "timestamp": "2025-12-17T06:06:23.289Z",
+      "resultCount": 10,
+      "mainPlatform": "공고없음",
+      "platformScore": 0,
+      "platformDetails": [
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 10,
+          "domains": [
+            "recruit.koreit.co.kr",
+            "www.koreit.co.kr"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "https://recruit.koreit.co.kr/",
+          "domain": "recruit.koreit.co.kr",
+          "title": "한국토지신탁"
+        },
+        {
+          "url": "https://recruit.koreit.co.kr/recruit/careers",
+          "domain": "recruit.koreit.co.kr",
+          "title": "채용공고 Recruit"
+        },
+        {
+          "url": "https://recruit.koreit.co.kr/company/intro",
+          "domain": "recruit.koreit.co.kr",
+          "title": "회사소개"
+        },
+        {
+          "url": "https://recruit.koreit.co.kr/company/talent",
+          "domain": "recruit.koreit.co.kr",
+          "title": "인재상"
+        },
+        {
+          "url": "https://recruit.koreit.co.kr/recruit/always-recruite",
+          "domain": "recruit.koreit.co.kr",
+          "title": "상시채용 regular Recruit"
+        },
+        {
+          "url": "https://www.koreit.co.kr/company/group/talent-recruit-ment",
+          "domain": "www.koreit.co.kr",
+          "title": "인재채용"
+        },
+        {
+          "url": "https://recruit.koreit.co.kr/recruit/careers-view?Seq=23504",
+          "domain": "recruit.koreit.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.koreit.co.kr/",
+          "domain": "www.koreit.co.kr",
+          "title": "한국토지신탁"
+        },
+        {
+          "url": "https://www.koreit.co.kr/ir-pr-center/koreit-archive/ci-bi",
+          "domain": "www.koreit.co.kr",
+          "title": "Koreit 아카이브"
+        },
+        {
+          "url": "https://www.koreit.co.kr/company/group/organization",
+          "domain": "www.koreit.co.kr",
+          "title": "인력 및 조직"
+        }
+      ]
+    },
+    {
+      "company": "해성디에스\thttp://www.haesungds.com",
+      "searchQuery": "해성디에스\thttp://www.haesungds.com 채용",
+      "timestamp": "2025-12-17T06:06:35.435Z",
+      "resultCount": 10,
+      "mainPlatform": "자체",
+      "platformScore": 90,
+      "platformDetails": [
+        {
+          "name": "자체",
+          "weight": 90,
+          "count": 1,
+          "score": 90,
+          "bestRank": 2,
+          "domains": [
+            "haesungds.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://haesungds.co.kr/recruit/recruit.php",
+          "domain": "haesungds.co.kr",
+          "title": "채용절차"
+        },
+        {
+          "url": "https://haesungds.co.kr/recruit/announcement.php",
+          "domain": "haesungds.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.haesungds.co.kr/",
+          "domain": "www.haesungds.co.kr",
+          "title": "해성디에스"
+        },
+        {
+          "url": "https://haesungds.co.kr/product/leadframe.php",
+          "domain": "haesungds.co.kr",
+          "title": "Lead Frame"
+        },
+        {
+          "url": "https://haesungds.co.kr/product/pcb.php",
+          "domain": "haesungds.co.kr",
+          "title": "PCB Substrate"
+        },
+        {
+          "url": "https://haesungds.co.kr/about/location.php",
+          "domain": "haesungds.co.kr",
+          "title": "사업장 위치"
+        },
+        {
+          "url": "https://haesunggroup.select-in.co.kr/",
+          "domain": "haesunggroup.select-in.co.kr",
+          "title": "해성디에스 경력사원 인재풀 - Select IN"
+        },
+        {
+          "url": "https://www.incruit.com/company/1673837624/",
+          "domain": "www.incruit.com",
+          "title": "2025년 해성디에스 채용 기업정보"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/company/16152404",
+          "domain": "www.jobkorea.co.kr",
+          "title": "해성디에스"
+        },
+        {
+          "url": "https://his.pusan.ac.kr/bbs/ie/3810/852798/artclView.do",
+          "domain": "his.pusan.ac.kr",
+          "title": "2021년 상반기 해성디에스 신입사원 채용"
+        }
+      ]
+    },
+    {
+      "company": "모나용평\thttp://www.yongpyong.co.kr",
+      "searchQuery": "모나용평\thttp://www.yongpyong.co.kr 채용",
+      "timestamp": "2025-12-17T06:06:45.180Z",
+      "resultCount": 10,
+      "mainPlatform": "자체",
+      "platformScore": 90,
+      "platformDetails": [
+        {
+          "name": "자체",
+          "weight": 90,
+          "count": 3,
+          "score": 90,
+          "bestRank": 1,
+          "domains": [
+            "www.yongpyong.co.kr",
+            "yongpyong.co.kr"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "url": "https://www.yongpyong.co.kr/kor/recruit/announce/list.do",
+          "domain": "www.yongpyong.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.yongpyong.co.kr/kor/recruit/recruitInfo.do",
+          "domain": "www.yongpyong.co.kr",
+          "title": "채용안내"
+        },
+        {
+          "url": "https://yongpyong.co.kr/kor/recruit/announce/seasonAgreementCheck.do?noticeNo=",
+          "domain": "yongpyong.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "https://www.yongpyong.co.kr/kor/recruit/announce/read.do?noticeNo=2251200001&pageIndex=1&flag=2",
+          "domain": "www.yongpyong.co.kr",
+          "title": "채용공고 - 2025년 모나용평 신입/경력사원 모집"
+        },
+        {
+          "url": "https://m.incruit.com/jobdb_info/jobpost.asp?job=2409110000355",
+          "domain": "m.incruit.com",
+          "title": "2024년 모나용평 신입/경력사원 채용"
+        },
+        {
+          "url": "https://www.yongpyong.co.kr/",
+          "domain": "www.yongpyong.co.kr",
+          "title": "모나 용평"
+        },
+        {
+          "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/47997961",
+          "domain": "www.jobkorea.co.kr",
+          "title": "모나용평(주) 채용 - 2025년 모나용평 신입/경력사원 모집"
+        },
+        {
+          "url": "https://www.yongpyong.co.kr/kor/recruit/notice/list.do",
+          "domain": "www.yongpyong.co.kr",
+          "title": "모나 용평:공지사항"
+        },
+        {
+          "url": "https://cafe.yongpyong.co.kr/kor/recruit/announce/read.do?noticeNo=3251000002&pageIndex=1&flag=3",
+          "domain": "cafe.yongpyong.co.kr",
+          "title": "모나 용평:채용공고"
+        },
+        {
+          "url": "https://www.incruit.com/company/2958475/",
+          "domain": "www.incruit.com",
+          "title": "2025년 모나용평 주식회사 채용 기업정보"
+        }
+      ]
+    },
+    {
+      "company": "해태제과식품\thttp://www.ht.co.kr",
+      "searchQuery": "해태제과식품\thttp://www.ht.co.kr 채용",
+      "timestamp": "2025-12-17T06:06:54.458Z",
+      "resultCount": 10,
+      "mainPlatform": "공고없음",
+      "platformScore": 0,
+      "platformDetails": [
+        {
+          "name": "Other",
+          "weight": 10,
+          "bestRank": 1,
+          "count": 10,
+          "domains": [
+            "recruit.ht.co.kr",
+            "www.ht.co.kr"
+          ],
+          "isDedicated": false,
+          "score": 10
+        }
+      ],
+      "results": [
+        {
+          "url": "https://recruit.ht.co.kr/",
+          "domain": "recruit.ht.co.kr",
+          "title": "해태제과: 입사지원"
+        },
+        {
+          "url": "https://recruit.ht.co.kr/notification/result_check.aspx",
+          "domain": "recruit.ht.co.kr",
+          "title": "나의 지원현황"
+        },
+        {
+          "url": "https://recruit.ht.co.kr/TP/TP.aspx",
+          "domain": "recruit.ht.co.kr",
+          "title": "인재상"
+        },
+        {
+          "url": "https://recruit.ht.co.kr/system/rule.aspx",
+          "domain": "recruit.ht.co.kr",
+          "title": "인사제도"
+        },
+        {
+          "url": "https://recruit.ht.co.kr/system/benefit.aspx",
+          "domain": "recruit.ht.co.kr",
+          "title": "보상체계"
+        },
+        {
+          "url": "https://recruit.ht.co.kr/notification/view.aspx?EMP_NO=00471",
+          "domain": "recruit.ht.co.kr",
+          "title": "입사지원 :: 해태제과"
+        },
+        {
+          "url": "http://www.ht.co.kr/recruit/recruit00.asp",
+          "domain": "www.ht.co.kr",
+          "title": "해태제과식품"
+        },
+        {
+          "url": "http://recruit.ht.co.kr/notification/view.aspx?EMP_NO=00430",
+          "domain": "recruit.ht.co.kr",
+          "title": "입사지원 :: 해태제과"
+        },
+        {
+          "url": "http://recruit.ht.co.kr/notification/view.aspx?EMP_NO=00417",
+          "domain": "recruit.ht.co.kr",
+          "title": "채용공고"
+        },
+        {
+          "url": "http://recruit.ht.co.kr/notification/view.aspx?EMP_NO=00432",
+          "domain": "recruit.ht.co.kr",
+          "title": "입사지원 :: 해태제과"
         }
       ]
     }
