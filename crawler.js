@@ -187,6 +187,9 @@ function identifyPlatform(url, companyInfo, title = '') {
       weight: (() => {
         if (!domain.includes('jobkorea.co.kr')) return 40;
 
+        // URL이 /Recruit/GI_Read 패턴이면 가중치 60 (실제 채용공고)
+        if (urlLower.includes('/recruit/gi_read')) return 60;
+
         // 타이틀에 "진행 중인 공고 총 n건" 패턴이 있으면 가중치 60
         // "진행 중인 공고 확인하기"는 제외 (공고 없을 확률 높음)
         const hasJobPattern = /진행\s*중인\s*공고\s*총\s*\d+건/.test(title);
