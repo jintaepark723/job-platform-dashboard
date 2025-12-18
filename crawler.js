@@ -137,16 +137,8 @@ function identifyPlatform(url, companyInfo, title = '') {
         // 1. 도메인이 그룹 채용 사이트에 포함되는지 확인
         const isDomainMatch = groupRecruitDomains.some(recruitDomain => domain.includes(recruitDomain));
 
-        // 2. 타이틀에 그룹 채용 관련 키워드가 있는지 확인
-        const groupTitleKeywords = [
-          '그룹 채용', '그룹채용', '그룹 인재', '그룹인재',
-          '통합 채용', '통합채용', '채용사이트', '채용 사이트',
-          'group career', 'group recruit', 'group hiring',
-          '계열사 채용', '계열사채용'
-        ];
-        const hasTitleKeyword = groupTitleKeywords.some(keyword =>
-          titleLower.includes(keyword.toLowerCase())
-        );
+        // 2. 타이틀에 '그룹' 키워드가 있는지 확인
+        const hasTitleKeyword = titleLower.includes('그룹');
 
         return isDomainMatch || hasTitleKeyword;
       }
